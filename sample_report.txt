@@ -1,0 +1,62 @@
+Patients: 1000
+Encounters: 7736
+Conditions: 2352
+Medications: 4471
+Allergies: 953
+Procedures: 1520
+Immunizations: 1483
+Observations: 6101
+Deaths: 112
+Family History: 3049
+
+Age distribution:
+  0-18: 105
+  19-40: 184
+  41-65: 396
+  66-120: 315
+Gender distribution:
+  female: 318
+  male: 682
+Race distribution:
+  White: 501
+  Black: 196
+  Asian: 104
+  Hispanic: 103
+  Other: 96
+Smoking distribution:
+  Current: 220
+  Never: 569
+  Former: 211
+Alcohol distribution:
+  Regular: 221
+  Occasional: 299
+  Never: 386
+  Heavy: 94
+Education distribution:
+  None: 291
+  High School: 168
+  Bachelor: 294
+  Master: 152
+  Doctorate: 95
+Employment distribution:
+  Student: 266
+  Employed: 463
+  Retired: 95
+  Unemployed: 82
+  Disabled: 94
+Housing distribution:
+  Stable: 791
+  Temporary: 111
+  Homeless: 42
+  Assisted Living: 56
+Top 10 conditions:
+  Obesity: 267
+  Hypertension: 240
+  Anxiety: 215
+  Depression: 197
+  Heart Disease: 180
+  Arthritis: 171
+  Diabetes: 149
+  Flu: 149
+  Asthma: 147
+  COVID-19: 131
