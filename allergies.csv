@@ -1,0 +1,978 @@
+allergy_id,patient_id,substance,reaction,severity
+e7d766f9-864f-4671-b003-31fc030fb0a7,3f0eab7a-5647-43fd-b614-8ba7dbe0fb7f,Aspirin,Hives,mild
+69b7fcd9-c82b-4f83-8339-e9395d6eeacb,37c04797-3094-48e1-97d2-2b5150c862a3,Bee venom,Vomiting,moderate
+f8613927-4bec-40b1-bcda-651252b97ad4,2aa9d570-ebe5-4ccc-b6ec-9a648f1a6b0d,Penicillin,Nausea,moderate
+8c7d7466-84d2-4881-a59a-9b826a9e3edf,203adbed-759d-4f91-834b-674ab5520251,Latex,Vomiting,moderate
+6490253a-4708-4dc2-a12e-6ad31b818e08,3d6d56e3-0d88-4e96-bfd1-fca7530dc0f6,Latex,Nausea,severe
+238ceb91-19f1-43e7-90e9-b23242fecb7c,46e73363-5f0d-4e52-82c2-aa189dbef311,Eggs,Hives,moderate
+bbd20296-f054-4321-85b4-bc46c63008e3,cd5d5da6-a2cc-4a82-bb5b-444091985ed4,Milk,Anaphylaxis,mild
+fc9c5698-7947-4685-8c99-11a971b32db9,cd5d5da6-a2cc-4a82-bb5b-444091985ed4,Peanuts,Anaphylaxis,severe
+210bbe24-6e76-42e5-ab5e-d060ea646a3c,db83ec32-53da-4d3e-b1fa-193907bd657a,Penicillin,Swelling,severe
+fac54543-b2f2-49f4-aa60-109ef1ccf2e1,d1c8bb21-52f2-4bc1-87c4-8227fb98708a,Aspirin,Rash,moderate
+4b9c860a-fb2b-4a28-8fed-db4c2efa78ae,d1c8bb21-52f2-4bc1-87c4-8227fb98708a,Bee venom,Anaphylaxis,severe
+dec35c5d-6ca0-43ae-beb9-5be67fc6fadf,b336f592-85ec-4d9b-be43-aec810c22ee0,Aspirin,Anaphylaxis,mild
+0ac05647-0b73-412c-9f19-d295035b6628,50e940e9-bd06-4636-8f55-171c828deccd,Shellfish,Vomiting,moderate
+57d212b7-2a1e-40c7-84b2-8f9e8a4c4178,e08904c6-c91f-4e9d-85e3-b7e8431fbeaa,Penicillin,Swelling,mild
+8f480b29-7167-4d94-9d72-928b2340003f,e08904c6-c91f-4e9d-85e3-b7e8431fbeaa,Bee venom,Swelling,moderate
+f53b988e-2f98-4396-a591-1b7297ed422c,4312bdef-d666-4132-a8f4-0b6fcac3fa42,Milk,Rash,severe
+16f907ab-2466-4905-a3b3-420a6aab9231,c484379d-d815-4ad9-85fb-bb733827e964,Shellfish,Swelling,severe
+dcb0a170-1c4b-41dd-a517-851a47aeba54,c484379d-d815-4ad9-85fb-bb733827e964,Peanuts,Vomiting,mild
+22370701-f4ad-4e58-ba1c-760494d044b6,07749f1c-63c6-4606-8c5b-1db7a9262bfe,Penicillin,Swelling,moderate
+f50a7cf4-a315-48fa-8dc3-9e314cf0f20b,07749f1c-63c6-4606-8c5b-1db7a9262bfe,Peanuts,Swelling,moderate
+a47d3280-faf5-402c-a2e2-d7e3d5c17030,13c3589a-65b0-41d2-887f-8cefffe08748,Eggs,Vomiting,moderate
+f54cbe51-43b9-4dde-9d70-fb44133c2140,13c3589a-65b0-41d2-887f-8cefffe08748,Bee venom,Swelling,moderate
+008e8ca2-738f-4d32-9957-2d01c2c284f2,2a308dc4-25c2-429a-871a-595f1db5d099,Peanuts,Hives,severe
+2d80550c-e5cb-4691-be8f-8fb00afe86ab,2a308dc4-25c2-429a-871a-595f1db5d099,Milk,Rash,severe
+23415c4b-9cb5-4615-9583-1aee8ada2d50,14db39fc-d6d3-412c-b9a2-42ae58388a41,Bee venom,Rash,severe
+eca0b0c8-4bac-4f03-952a-9a66b196cb9d,0dc88d74-1b04-4e19-800a-ef90c2bbdba5,Penicillin,Swelling,severe
+47e94385-8a1c-4fb2-8acf-925d91e68171,0dc88d74-1b04-4e19-800a-ef90c2bbdba5,Aspirin,Swelling,severe
+6d1c33f2-81e9-445b-ad9b-5a56a8251c3e,9d99f1df-fe9b-4c7e-8bf3-671ff8646508,Latex,Vomiting,mild
+adbbab29-02a1-4336-bc5c-c9ca0fdb8459,26d558e9-1c9e-43f1-8c9a-b7de184d0f1b,Milk,Rash,severe
+ab2a8148-b2dd-4408-8e02-0eda2fd1ad13,26d558e9-1c9e-43f1-8c9a-b7de184d0f1b,Shellfish,Vomiting,mild
+1509eecc-712b-4706-a06f-9dd2ff0e376b,68bf2e03-d1e1-4df7-b405-b66da55dfdc0,Peanuts,Rash,moderate
+74f5070f-3b79-4708-95c0-8e383e33f9f4,68bf2e03-d1e1-4df7-b405-b66da55dfdc0,Bee venom,Rash,severe
+b84f5d40-01bd-4909-9792-780fc551716c,22312444-bd2a-40bb-a472-bed1e48af4b5,Shellfish,Anaphylaxis,moderate
+1e276b8b-4bf0-453d-b126-5a27d09d9e26,22312444-bd2a-40bb-a472-bed1e48af4b5,Eggs,Rash,moderate
+d3b5670e-c5dd-4069-a820-37883f9c9843,f13dc00a-1607-4836-8cd3-313d5aa42143,Penicillin,Vomiting,moderate
+7fff7393-7827-4e47-9ebb-3ce4ff76921e,eb4af51d-faf1-4848-9b27-da65ef56b1da,Latex,Nausea,severe
+2a719f35-175d-4d7c-ba91-fd1264d158f6,3d85dc2b-21bf-4dd1-8b03-315f6083eeb4,Aspirin,Nausea,mild
+a87d597a-2d24-4f4d-80c0-13ef05a86f8c,3d85dc2b-21bf-4dd1-8b03-315f6083eeb4,Peanuts,Rash,mild
+5c7e01ae-c4da-479b-a9bb-fd4b44fe1b1a,71f43b78-bf39-4ecb-9fee-8226ee7aee77,Milk,Nausea,severe
+3dfac76e-fe72-43c1-a859-67d9b4248af2,91f013c4-8fbf-47d5-8348-4df33e164b50,Latex,Anaphylaxis,severe
+4a81d269-d56f-41dc-bf30-58e479e3b5f2,99f8751d-8d8c-4069-9d45-8df861e20d52,Aspirin,Vomiting,moderate
+f0402a10-4eca-4425-b793-81bef477edf6,99f8751d-8d8c-4069-9d45-8df861e20d52,Peanuts,Anaphylaxis,mild
+db17b7f4-97b1-4d5a-9a5e-c592cd416625,e18bfb58-881e-49a6-8a3d-d6cb0a5752b9,Aspirin,Rash,severe
+7687789a-aef9-40bd-af08-ef9e22a180b8,e18bfb58-881e-49a6-8a3d-d6cb0a5752b9,Milk,Rash,mild
+6267391e-3afc-4326-b0b3-5e1bc568674a,c444fa6e-6b70-4f3c-9af1-9d63ed36b897,Penicillin,Rash,mild
+57eb1343-a7f0-48ec-bd10-ff7cf1010a78,c444fa6e-6b70-4f3c-9af1-9d63ed36b897,Milk,Anaphylaxis,moderate
+b4a0d4eb-feaf-4382-8b27-ba5360677b5e,aa15db9a-6265-43a0-b820-86e20023bb5e,Shellfish,Hives,moderate
+166db47d-0f05-4bac-bbca-bae800fe5471,aa15db9a-6265-43a0-b820-86e20023bb5e,Milk,Swelling,mild
+b07fbe28-4081-4ced-a558-7288dbc88558,87750598-0fb8-499b-8698-8623dd2d5470,Eggs,Hives,moderate
+5a3e2b07-9816-4b9a-b9fd-730c1622c166,375cca1c-4175-46fd-8b99-6f53934f087a,Aspirin,Vomiting,moderate
+5dcc5d6d-8806-414a-b44d-f144b281b6c1,375cca1c-4175-46fd-8b99-6f53934f087a,Latex,Swelling,mild
+84c00add-e151-437d-81c7-31de6c9a63e3,dcb8e4f7-c47a-411e-b927-e34aa3e2ae03,Eggs,Nausea,severe
+aa0d7151-9e36-4db7-9069-a18c5cf2292e,dcb8e4f7-c47a-411e-b927-e34aa3e2ae03,Latex,Swelling,moderate
+42973450-3a59-4f92-8ece-30f5775bf33f,bdd74cca-ff0c-49de-95eb-27cee5bd7a92,Latex,Nausea,severe
+37d51706-c526-44eb-9222-01dd8fb685e3,e7b8701d-3843-4eb2-b58c-d254b22ef542,Penicillin,Rash,mild
+993e6625-f558-43f6-bdd7-961f9448716c,f9c12d03-1c4a-418b-8bfe-8af3942ae32f,Eggs,Swelling,severe
+da1abce6-191a-4dfa-b0a9-feb1912d5522,f9c12d03-1c4a-418b-8bfe-8af3942ae32f,Bee venom,Anaphylaxis,mild
+afd69d1d-4b48-45f7-a7ca-9beb4b118de1,b7e1a0a5-8ee0-44c3-9ba1-e40174388432,Peanuts,Hives,moderate
+2c02e5c4-468a-47e8-9821-166e59b2c2af,b7e1a0a5-8ee0-44c3-9ba1-e40174388432,Bee venom,Rash,severe
+87985d75-530b-4924-8564-66ceab1cc728,2696f0d6-dee9-49d9-942e-eb9f5e244942,Milk,Anaphylaxis,severe
+9cb949d5-06c1-4748-a494-6638fa6327a0,2696f0d6-dee9-49d9-942e-eb9f5e244942,Aspirin,Rash,mild
+411e6b26-e18b-4d23-b187-8af75cbb9b6f,050417ed-07cf-4b9e-a7cc-d30d69305d66,Peanuts,Rash,severe
+245fecef-152b-4c93-b567-d64f04c1d35b,050417ed-07cf-4b9e-a7cc-d30d69305d66,Latex,Rash,severe
+48de92c4-c1e2-42f1-b6c5-cc56f0cf3628,d953a804-6ef1-4383-b809-b6adbd213807,Bee venom,Nausea,mild
+aad13594-0cbc-4698-b8d0-1e322ed8ca65,d953a804-6ef1-4383-b809-b6adbd213807,Peanuts,Swelling,moderate
+abf81b74-7242-4c25-9acd-5a8fd57bfb24,4e437a8f-107c-4672-9de1-5632c2ccc0e3,Shellfish,Nausea,mild
+c34d94e9-f28c-4c2a-9718-348a423bb174,8a1f7bbf-4e26-4b3a-bb88-7f0aca0edcb8,Eggs,Rash,severe
+e805a0ae-7a0d-4fd3-a1d3-dcdfcdfa2237,8fda2559-389b-4339-bab2-25cb6334a624,Latex,Rash,severe
+6e92818d-f89f-4560-b883-7d526aea29e0,3dc5a180-7c5e-4939-97a0-1376fc521bf5,Peanuts,Rash,severe
+6fc0e0ae-cbf9-4303-8670-6b159274cef0,51490021-3f33-44c8-aceb-64a2689bb887,Shellfish,Rash,mild
+cb5daee7-ea4c-4337-a8a2-9d2f81fbfa94,1387f115-cc9d-40c2-9319-2daebb273127,Milk,Vomiting,severe
+f6e7becf-23f8-4c92-a524-efeff538b486,029a9f98-739e-458b-a527-7b95e2597c9b,Bee venom,Rash,severe
+fbaf9700-55fe-496b-b35a-a057489685bd,e812d6cb-2f2d-4563-a78e-a5b466d729ab,Bee venom,Anaphylaxis,mild
+c584f385-e2dc-477c-9774-270eb3bd42cd,c8c3de71-80c1-4c43-ba7a-c90bc76c1af7,Shellfish,Anaphylaxis,moderate
+3e4a275b-a7d4-49bd-bc3a-0e1c39abca21,c8c3de71-80c1-4c43-ba7a-c90bc76c1af7,Penicillin,Anaphylaxis,mild
+a44c6fdc-33e8-4842-b0ea-3882f4a3daa2,d750237b-f2c2-4332-b95a-89fd0a65b829,Aspirin,Swelling,severe
+57fe80b4-8d31-4e57-a3de-3c99b5d4c0d2,6633242c-0fa8-4284-8c2c-4f1734bab14d,Aspirin,Vomiting,severe
+28f83e01-5492-4145-b358-9b895383ead8,6633242c-0fa8-4284-8c2c-4f1734bab14d,Peanuts,Vomiting,moderate
+d6a8d4bf-488d-438b-95b1-7b93de811492,0313579a-bb38-4789-8e17-e617f92f8b50,Peanuts,Swelling,moderate
+7e5fba82-750d-4fa7-85ef-347cfdb9cb8b,089c6a4c-8fc2-4d19-b5f7-d6bcf33fc4d4,Aspirin,Hives,moderate
+25975c95-85ae-4b9c-8cd3-defc2bcffa54,0ee80fc6-7220-4ef2-a36d-b22f97a0327f,Peanuts,Nausea,moderate
+9aad4225-1ac3-4f29-9163-7099e410cd00,0ee80fc6-7220-4ef2-a36d-b22f97a0327f,Aspirin,Rash,severe
+cb60316e-bdb4-4399-a0d6-f22ca912d054,929d2942-5db1-4c1c-bba0-95854ff32eda,Milk,Hives,moderate
+77181bb7-d30b-464b-9226-65aad2a8a766,5801f77f-41ec-4d37-923f-91f07aad7097,Eggs,Hives,moderate
+ff42db01-18c7-4bf2-abe8-955ea99d7db2,5801f77f-41ec-4d37-923f-91f07aad7097,Bee venom,Rash,moderate
+8d73a8ee-7c27-4bc7-8520-d2c051970d44,bc6fb76d-0ea5-4c24-9db3-06af5cffbb12,Milk,Swelling,mild
+6d1aae07-9577-4c09-81ff-35fda2b5f9d4,bc6fb76d-0ea5-4c24-9db3-06af5cffbb12,Aspirin,Nausea,moderate
+f678c9b7-fdef-4c09-8972-d08d31f8d751,a2a1b82f-f48b-4e07-9286-b99cf8deb4f6,Eggs,Nausea,moderate
+cc357e94-8ea2-4e61-bcde-ad13ac0ba79f,a2a1b82f-f48b-4e07-9286-b99cf8deb4f6,Penicillin,Vomiting,mild
+e327a09b-933e-4090-bc8f-232cbeeaeedc,8f4ce81c-2922-4097-92bb-98461cad1dd2,Bee venom,Rash,mild
+eb7a69c9-90b8-4d7a-93f7-b04cf83c3e67,8f4ce81c-2922-4097-92bb-98461cad1dd2,Peanuts,Hives,severe
+5b6c8cf4-a4be-458b-9823-3adc9fc7f830,a47c7e1e-fdef-4f21-8f8f-fa6559877a72,Penicillin,Nausea,mild
+bccc535b-048b-4a4f-b866-d25902beccd7,ed44562d-efa1-431e-b88d-e7cdc47f6a3c,Shellfish,Vomiting,severe
+167da41b-edf0-4907-befa-cb885c03f487,98ef2261-e20c-425b-92e1-dc3b38a9b3e5,Shellfish,Vomiting,moderate
+65d24215-ab7e-4b90-969b-4d5e2e40a5e8,26747b89-1ae0-4adb-a59d-eca1ba8a0f87,Penicillin,Vomiting,mild
+566940d1-49d0-4adf-a1a7-97dcd37b8873,ffbd25ec-0518-4640-87ef-9bd1a7f29d5d,Shellfish,Rash,severe
+fe9ed798-e047-4580-8f86-a9daf6922ea0,ffbd25ec-0518-4640-87ef-9bd1a7f29d5d,Penicillin,Anaphylaxis,moderate
+162dd6c9-d213-4140-8530-364ec951b511,9a94485d-6149-4da9-87bc-17a3d02872cd,Penicillin,Anaphylaxis,severe
+8f904354-e88a-42a2-b673-74dc27d59470,0cc78d95-644d-4646-8822-d33401c661f4,Latex,Vomiting,moderate
+d936473f-8048-4d59-8495-ea69b6c37177,0cc78d95-644d-4646-8822-d33401c661f4,Aspirin,Rash,mild
+c745c2eb-dee6-4b15-b267-2c05a0b06239,c811bf0b-84c3-41cc-8f24-a9a283987969,Peanuts,Rash,mild
+c2836825-ded8-4659-bf43-60015739df20,2697f4cc-ccda-4852-a86d-d0f1b07c6887,Penicillin,Rash,severe
+e8013ce7-dfdb-47fd-840e-3a3ceb6c2048,9fa5f62b-114a-4b68-85f4-cec7bd9906fd,Latex,Anaphylaxis,severe
+90179de3-dbf5-4b3a-ae18-bd8acadcdca5,9fa5f62b-114a-4b68-85f4-cec7bd9906fd,Milk,Swelling,moderate
+29ba8648-8b7b-4e65-b379-6cedd6730502,8b7aa8dc-466a-485a-b6ea-1f100c10bb01,Eggs,Hives,mild
+3bcaf829-2eca-421e-8171-1b60d2a151ee,8b7aa8dc-466a-485a-b6ea-1f100c10bb01,Milk,Swelling,severe
+4a45f955-8650-4353-8d45-84d8878c5c00,f48b0980-e576-46ec-846b-339496e03b76,Bee venom,Anaphylaxis,moderate
+7eda34c8-c578-4e12-93f1-1f206735c79c,4e0a370a-b8c9-4044-837b-be3d2a409073,Shellfish,Anaphylaxis,mild
+6ac20b37-3be4-41d1-a008-fdbad8b05faf,d72123c3-4b71-484d-920c-72dd66a6d7b0,Penicillin,Hives,mild
+c808ffe8-5d78-4c6f-a455-8685275b0e14,5910f443-1fde-452b-9d33-0d245bb807e3,Latex,Nausea,mild
+0ed70e67-e578-4c9d-9083-45a11b24243d,5910f443-1fde-452b-9d33-0d245bb807e3,Eggs,Anaphylaxis,moderate
+e8db1632-3108-483c-a7df-db1892581940,bd9a855a-cf5f-4267-b932-aa69696f5a89,Aspirin,Rash,severe
+23e749d8-4c8c-4ac2-ba6b-9122126e42cf,b9f9268f-db8e-48a6-81f8-69e21b26a2ea,Penicillin,Vomiting,severe
+9b0d9b92-5fcc-4ac7-bf1e-0854add2c7b6,b9f9268f-db8e-48a6-81f8-69e21b26a2ea,Latex,Nausea,moderate
+169c94b2-ddc0-4357-a0aa-29b996fa157c,140c33ee-cad0-4666-a713-19e1b9863dd6,Eggs,Hives,mild
+c71dd8e9-b7d1-4caa-aa0d-588b0bc20566,219427b9-cab3-47d5-af7c-306365b57632,Bee venom,Anaphylaxis,severe
+a82b21ee-9371-4075-bafc-6fceedae7b2c,219427b9-cab3-47d5-af7c-306365b57632,Eggs,Hives,moderate
+36ecf6eb-ce3f-4f33-9304-9ab20d237b9b,3ea84e1b-de4a-4d5d-b60e-1f5efea2f384,Eggs,Rash,severe
+b14e5a6e-9afa-458b-a0eb-7470ffcdc3b7,64deac5b-18cd-4113-92f9-f1f7c1f3c901,Milk,Nausea,severe
+06bcfbd3-faa7-42bc-b6bf-faec00845164,64deac5b-18cd-4113-92f9-f1f7c1f3c901,Eggs,Vomiting,moderate
+cc426a8c-6548-4ddd-8fe9-314df9a7ea7a,e755c98a-ed48-477b-88a6-24cc79afccda,Peanuts,Hives,moderate
+3d5079b9-b637-4db1-84a9-7342b8e956f9,e755c98a-ed48-477b-88a6-24cc79afccda,Eggs,Swelling,severe
+4fcb62b2-9d97-43ac-98c5-a5799bee1365,9974c75a-a441-48b0-a3d4-0a3df5249b8d,Milk,Vomiting,severe
+e7ec1b8b-7fc2-40b4-890c-b18b3c82633c,9974c75a-a441-48b0-a3d4-0a3df5249b8d,Penicillin,Swelling,moderate
+c51d895b-32c4-4a04-80b0-3b2d904b1017,6b980c6d-fbc4-4a85-be25-0897cf2b5c30,Penicillin,Swelling,moderate
+8530d90b-0bbe-4814-91fc-34bef24f91b9,6a00b93d-f8c8-4b50-8037-0b74c0fca129,Peanuts,Swelling,moderate
+ef37808a-249f-46d3-bb92-791610dc9414,6a00b93d-f8c8-4b50-8037-0b74c0fca129,Peanuts,Nausea,severe
+543ab1f9-6ece-4b67-b871-20a8815199e2,9dac699f-29a4-40c6-8ad8-bec95e1271a4,Eggs,Rash,severe
+ac563dd1-6471-45e5-a09e-aa882ec1b46b,9dac699f-29a4-40c6-8ad8-bec95e1271a4,Bee venom,Anaphylaxis,mild
+3a809a2e-0e35-4c16-b650-adb50118846d,9e6579d6-7a27-4df4-91b6-df61e70cca8f,Eggs,Nausea,severe
+7270d28f-00db-4dfc-941d-23c6f01c956c,9e6579d6-7a27-4df4-91b6-df61e70cca8f,Aspirin,Anaphylaxis,moderate
+1cc8d2e1-3e98-4ad2-b116-8b923a38f731,cd54634c-1f8e-4101-9313-3659022449ff,Milk,Rash,mild
+88b6c1f5-af0d-4a6f-b996-3eb669d4ca40,cd54634c-1f8e-4101-9313-3659022449ff,Peanuts,Nausea,severe
+e6309ecf-44da-4c61-8b87-ac5ed0108f63,988a7ae4-5268-4984-86fe-c91d206ea28e,Penicillin,Swelling,mild
+018c766c-4567-42cc-b9d3-2a4aa8b8829a,988a7ae4-5268-4984-86fe-c91d206ea28e,Eggs,Hives,severe
+fea8a24a-e835-44fd-80d7-fd6d72102c6a,c461d1ce-ef1b-402b-95a3-55d7d5f80612,Latex,Hives,moderate
+ecb44420-a247-4259-84d9-1de74b4b3562,f30bd5e5-cf74-43f4-abf7-8357f627fad5,Milk,Nausea,severe
+4de0732d-1f82-472e-a06b-e55db7baff26,f30bd5e5-cf74-43f4-abf7-8357f627fad5,Latex,Nausea,mild
+3cfedbc0-2fa7-4e22-bef8-9b31ff97150e,1ecd0607-b294-4fc3-9517-953f4a9a21a5,Penicillin,Anaphylaxis,severe
+2a71daab-1add-4eba-987c-ce0d2f55fcd6,15fa2d80-1e7d-40ef-8b6d-65a3cbbeeedb,Shellfish,Rash,severe
+b41cd043-95a6-423a-99d2-58c25fa29596,15fa2d80-1e7d-40ef-8b6d-65a3cbbeeedb,Bee venom,Hives,severe
+1d6c4619-cc97-4b2b-8e10-4e47ba14a64d,9728127e-58c2-4110-a399-b04983b2c5fa,Milk,Rash,moderate
+223cc1dc-67f7-4087-8cac-b0665d26ff15,949699f7-0cd2-4680-8802-529ed838e53a,Latex,Vomiting,moderate
+a77a098c-9564-4a1e-8c9f-680952aba76f,93bec60f-e013-47ee-ad86-8fe33fbc2801,Penicillin,Rash,mild
+b2a294a8-f574-4580-9740-d8c09e2a000b,477a9cc9-8737-4ec6-982f-414c07c7a515,Shellfish,Hives,severe
+c323d3ab-6c43-410c-bea6-1f2675840a62,477a9cc9-8737-4ec6-982f-414c07c7a515,Bee venom,Nausea,mild
+23b8ea35-95fe-460e-8cfe-0fe69bca28b5,f5c1b946-c8be-4b4b-833c-49433d713eef,Peanuts,Swelling,moderate
+3a864acd-ed87-414e-90ae-601e47dd2733,bd36ea94-5d8d-4964-a128-8894ac437853,Latex,Rash,mild
+7525f599-f800-4b07-ac47-8dfbf39f6397,bd36ea94-5d8d-4964-a128-8894ac437853,Shellfish,Anaphylaxis,moderate
+c18b2ee2-b564-4b9c-93c1-4ad3a7e4a59f,7fce6dee-6df7-4e4a-8992-8aedc7316649,Aspirin,Anaphylaxis,severe
+40657b71-f61e-4821-9654-c858e2e64625,85b63812-ea63-4fb8-8a78-3bbf382a48b2,Aspirin,Vomiting,severe
+4ce0fe8e-e5bb-4194-aeab-7595b74f32b1,85b63812-ea63-4fb8-8a78-3bbf382a48b2,Aspirin,Rash,severe
+3b856d6d-f4b3-416e-8f75-cfe6e5fe74f2,7908c2ca-2046-4087-b276-d9b8c23ca61c,Milk,Hives,moderate
+38ece669-8e72-45a9-a8ff-aad51addc4e3,7908c2ca-2046-4087-b276-d9b8c23ca61c,Aspirin,Swelling,moderate
+ea70d53f-bae2-41b8-b566-087b1748c2ee,4aa6097a-2567-436b-8935-2f3de04e5ce4,Bee venom,Swelling,moderate
+ba0827e9-045f-487e-9186-ed7bf5da70ba,4aa6097a-2567-436b-8935-2f3de04e5ce4,Peanuts,Anaphylaxis,severe
+a026581b-28cb-42e7-8af6-e9eda1792a90,03d7fe7d-54c4-42e1-b342-9fe53255de51,Milk,Anaphylaxis,moderate
+3f95009d-ba2c-45f1-932a-b5246bb04a11,450ff559-c537-4b65-99bc-f6256bbea27b,Bee venom,Anaphylaxis,severe
+0abf3270-6492-4363-94ba-41f7af136166,450ff559-c537-4b65-99bc-f6256bbea27b,Latex,Hives,severe
+8b370a54-3d0a-4809-a019-3758047e9017,23910e8a-ad0a-43d1-9b8c-d36be87efc29,Peanuts,Hives,moderate
+5de10922-f9f9-41ec-8c00-66d4d9abdc70,23910e8a-ad0a-43d1-9b8c-d36be87efc29,Peanuts,Nausea,moderate
+4d8bbe31-3c94-48d8-8f4d-8a8810c3c344,d3641ace-9188-4282-bdef-a0ccbb3c612a,Aspirin,Hives,moderate
+39280b77-175c-4853-9048-cdbdf9dba52c,f7301f86-b68e-4bd7-91ac-f39eae856d55,Bee venom,Vomiting,mild
+ff5a8020-c3b6-4c29-8ca9-7164a0cd5a74,6f8af862-e1b8-47aa-bfa6-f1496bba7589,Shellfish,Anaphylaxis,mild
+a60e0ecc-7939-426a-b859-1caf4cb5a702,6f8af862-e1b8-47aa-bfa6-f1496bba7589,Eggs,Vomiting,moderate
+bdef0be0-174a-47a7-b1f5-97322fa0c24c,68046e76-6e4f-4357-9fd5-56038ffd30dc,Aspirin,Swelling,mild
+47628c7f-6d6d-4996-9632-08508098728b,68046e76-6e4f-4357-9fd5-56038ffd30dc,Shellfish,Rash,mild
+fb91ed69-188e-4bfc-86d5-c7e6df1c4f38,4c467180-13d0-4018-98c8-848478bcccba,Peanuts,Rash,severe
+cb7abb71-86ea-402f-9ca5-a4f134829914,9f0c1030-216d-4d3a-ba47-b7545c9a3c96,Shellfish,Vomiting,mild
+b7c604e3-255d-42d5-8d6d-e7a2b87bd483,9f0c1030-216d-4d3a-ba47-b7545c9a3c96,Eggs,Anaphylaxis,severe
+098b634a-ad18-45ce-b6c3-7a964be23b69,071f3807-7872-442b-9096-3bda2faef0ae,Penicillin,Swelling,severe
+dd5df4e6-903d-4c8a-ab9a-8ae2b2b3e595,071f3807-7872-442b-9096-3bda2faef0ae,Aspirin,Vomiting,mild
+4d5566b8-e01d-4d0c-8537-96ab64dbf085,50e63fe7-1ffb-41fe-9672-c7e4d5d09ee0,Penicillin,Vomiting,severe
+56a4760d-eeec-47cf-96ea-8cece27ace5e,938336d7-8948-46da-8ac4-d96ccfda4f72,Penicillin,Swelling,severe
+c8f96779-eae7-498b-89cc-9b5686b6309a,938336d7-8948-46da-8ac4-d96ccfda4f72,Bee venom,Rash,mild
+1135de22-bbfa-42f5-bd5f-e146418d52f8,5a0aa989-7bea-490d-ba91-9a8bde6e129a,Latex,Rash,severe
+d666f8a5-2986-4a3e-8294-c0d98ec0f5c1,bb928b9e-08f3-4a4b-86ad-54a68a0ec4db,Penicillin,Anaphylaxis,moderate
+546759f9-997c-4d34-8638-e2f17c75fc66,083e8869-60d2-4614-8f57-ec6c244f17a7,Eggs,Hives,moderate
+e50da8cf-c89c-4821-976f-6ca0f918fa0a,28f247c9-6e28-451d-9c0b-fa2f1e786efd,Bee venom,Swelling,severe
+17d57f22-af6a-4a50-acb3-e5c5b00702c1,28f247c9-6e28-451d-9c0b-fa2f1e786efd,Milk,Hives,moderate
+2713b29b-8c5c-44bf-856c-b773a2b4652f,f9041bee-e3e3-409e-a9cb-7520cc904127,Aspirin,Rash,mild
+8a744858-10b9-4258-acd6-2c499f66c366,f9041bee-e3e3-409e-a9cb-7520cc904127,Aspirin,Vomiting,severe
+c613619f-c29f-4562-9f93-5ee9fdf6a8f3,0ea07d31-dee5-4306-99b0-4acfcbec72ff,Penicillin,Swelling,severe
+8aa7a55c-5a3d-412a-ae38-f4ed19592221,91487ddf-b992-4934-b7bd-413b675cd841,Peanuts,Anaphylaxis,moderate
+6f747b0c-0a4a-4387-91ac-915c29ff949b,5265e0c3-ebfc-4b35-a794-23535a487b9d,Latex,Swelling,moderate
+25b13f3c-de0b-45a6-b394-2f6b624adc0a,5265e0c3-ebfc-4b35-a794-23535a487b9d,Eggs,Rash,severe
+de96241b-74b3-47b1-b490-3f39b23ea407,3d921abf-913f-4080-af04-15c1774ab41b,Aspirin,Anaphylaxis,severe
+6b7d3d91-1c03-4b3a-8097-5cf180f64738,3d921abf-913f-4080-af04-15c1774ab41b,Bee venom,Nausea,mild
+3c46c9e4-e493-4fdb-9a39-708a60162fe2,1f6a1d3f-9f20-4ea7-87f2-d0d30502bade,Eggs,Anaphylaxis,moderate
+8c62eb6a-17bd-42bd-ab4a-33b936c8083d,1f6a1d3f-9f20-4ea7-87f2-d0d30502bade,Eggs,Swelling,moderate
+61249fff-2844-44bb-a34f-afb64b5584da,680ec99e-2c1e-4e27-b671-bf09a2059d3d,Peanuts,Swelling,moderate
+9f48bf3c-f125-42b4-bb06-3c3d1497eb81,4be4a79e-3b4f-4521-972e-fef372678c03,Eggs,Anaphylaxis,moderate
+ece32b35-a358-483e-9b57-539d77a055f8,dbc30f0a-b064-4b52-913c-df0e798436bc,Eggs,Nausea,moderate
+06593b15-55ea-4122-8b2f-141c125a4275,7858cd6f-eb09-49aa-923e-a9ffa2aa53bb,Eggs,Swelling,mild
+71d4673c-ec23-411a-a1bc-0c2d22cc21a4,7858cd6f-eb09-49aa-923e-a9ffa2aa53bb,Penicillin,Nausea,severe
+53170479-60f3-459a-ba9a-e96d8314d245,5bf0c4dd-76d0-4b27-a7e7-8a435eb1e1a2,Penicillin,Hives,mild
+a900ffaa-a06f-48fb-a5eb-8fae601589ef,5bf0c4dd-76d0-4b27-a7e7-8a435eb1e1a2,Milk,Anaphylaxis,mild
+35020a4b-e5e1-42e7-beee-2aca5943588e,54b81c7e-8308-4795-9793-ab0c77653220,Penicillin,Swelling,moderate
+c2d4f2ea-aef7-4b19-958a-3baa7e9225cc,54b81c7e-8308-4795-9793-ab0c77653220,Bee venom,Vomiting,severe
+42d07d52-cdb7-4daf-8260-95ef66104ab7,9cc1e42c-e30b-463e-a225-319a03044111,Latex,Nausea,moderate
+01e46795-fcf4-434a-94cc-018ef44330d1,ddb8cc5f-0537-4f8f-b2b5-8021a8cdb9df,Shellfish,Vomiting,mild
+20ee8b38-dcc8-4136-8a4a-33b809b99e35,f467bb21-5cdb-41e1-b02d-d98e32b4df77,Milk,Hives,moderate
+63d3865b-bc17-4d35-a0ac-0c241acad4dd,cb523c5f-5dec-4be5-bbde-5ad1cfe950d5,Shellfish,Rash,mild
+d1def21b-e37c-4bf8-90d6-67faf8343fa7,69790afe-d190-4bcc-be46-cc4e6aa7b901,Shellfish,Nausea,mild
+750ec98c-18ae-40c2-aaa1-8f7a17ba078a,69790afe-d190-4bcc-be46-cc4e6aa7b901,Eggs,Hives,severe
+ef16704c-9f6a-41b4-84cf-62506e275d66,bf98082b-a1a1-4b41-abe6-0fc26bb62958,Shellfish,Nausea,mild
+2cd235c5-3d19-425c-b67b-9d93a29eeb89,5acc5419-ee8c-490d-8da0-b4a8586eb4ac,Milk,Anaphylaxis,moderate
+23080c4e-44c5-4814-99fc-56848e38986e,fcd5a993-0e25-4201-8d67-61e581cff0bf,Bee venom,Anaphylaxis,mild
+402e0d3d-c34e-4954-82ea-f355bb3174d1,2f19d2e9-a76c-4fed-ad60-99f249d677c5,Eggs,Hives,moderate
+8414ec4d-1952-48a9-b733-a689bf650304,2f19d2e9-a76c-4fed-ad60-99f249d677c5,Penicillin,Hives,severe
+d28c8c09-8d5e-476f-9ac5-1ecce72bf9fd,e784fa17-70a6-4316-8a1e-15f9f55f7de6,Milk,Nausea,moderate
+a0350e3d-1af6-4464-b5da-c3e15d61419d,ec7f9b11-93d5-409b-a3a5-fcaf0f00513b,Peanuts,Nausea,moderate
+6c4b43d4-c6f0-4ba8-9fbe-4d50e310900b,ec7f9b11-93d5-409b-a3a5-fcaf0f00513b,Eggs,Anaphylaxis,moderate
+bffc6bc2-1da3-4cb6-a163-12303f8043ad,73c675a3-7909-48df-8832-9755aa02ef98,Penicillin,Hives,severe
+f276fb72-35a7-4d90-ac2a-17cd44521a16,73c675a3-7909-48df-8832-9755aa02ef98,Milk,Anaphylaxis,severe
+9450fe65-b5d6-49c9-9d05-57dba7981344,5051ac01-af69-4c20-bc7f-da9f0b71323c,Penicillin,Swelling,moderate
+83aa9d5f-7079-487d-b5e2-c42c62649e06,5051ac01-af69-4c20-bc7f-da9f0b71323c,Aspirin,Nausea,mild
+3dd399d7-1710-4478-b331-bd45d11ece37,95ed6c52-4cf5-4bdc-b470-774e56a29ec6,Eggs,Hives,severe
+fe64ff24-a49f-4f70-846d-60929a9e6e94,7f0c8b97-6299-4e01-8ce3-76b955ba5b46,Shellfish,Vomiting,severe
+c9c51146-c50c-4053-b102-8438994fd31b,3a47c54d-370e-422f-8849-69b90fdc56d3,Milk,Vomiting,mild
+3468e380-0d65-42ff-bb14-d9e00d6cb2d4,18d468b1-2543-42ac-9962-f7513befdc3f,Aspirin,Swelling,moderate
+9d54c0d6-28dc-4e90-b6ef-5eb8ba5e88b0,18d468b1-2543-42ac-9962-f7513befdc3f,Bee venom,Anaphylaxis,moderate
+5839b553-4070-45a4-bfa2-bd453c64d798,0f9dc6e7-d5be-44d9-aada-595e2037cceb,Aspirin,Swelling,mild
+a9a6e231-e3b4-45f9-a856-61d7a66dafdc,0f9dc6e7-d5be-44d9-aada-595e2037cceb,Eggs,Rash,severe
+78552fa4-ddb5-48e7-9804-404b49882632,2d07ddfa-f6fc-47f0-a67e-5358686ce4ae,Peanuts,Anaphylaxis,moderate
+00322571-6718-4969-b80a-1686eb2a3f46,2d07ddfa-f6fc-47f0-a67e-5358686ce4ae,Peanuts,Swelling,moderate
+e7c56eea-56de-4ac2-b082-14b8f389480a,9ec65e85-a6a1-44e8-8b0f-95fa99d8e4e2,Latex,Swelling,moderate
+e3fc68c2-3a53-4325-8b8f-b7773c7f3d4e,9ec65e85-a6a1-44e8-8b0f-95fa99d8e4e2,Latex,Anaphylaxis,moderate
+b43a57d3-8cbc-448e-b53c-565b8b050ef3,10955d0b-e3eb-4554-bfde-6ab7bbb3e891,Milk,Hives,severe
+2d3c5da0-0bf5-4fed-9a0b-b46d716126c8,10955d0b-e3eb-4554-bfde-6ab7bbb3e891,Peanuts,Hives,mild
+dc09ba80-1c28-46ba-8ba6-7e3fa865a0dd,ae0538c6-bd65-4c1d-9366-2e83df62f793,Milk,Swelling,mild
+270277eb-d24d-4716-b88e-66d5b34757da,ae0538c6-bd65-4c1d-9366-2e83df62f793,Eggs,Hives,mild
+2e5f76b0-7cdf-4f78-94a1-d2cd7922ffc5,d8139dab-4d53-4bc7-91c5-081998946d6f,Aspirin,Hives,moderate
+2b38e0b1-1128-4eea-8a19-0a38383b0ba7,4e7affb6-d85b-4bba-9a8b-72c73691a979,Shellfish,Vomiting,mild
+58006f5f-c0bf-4161-8234-fedf8628aecc,4e7affb6-d85b-4bba-9a8b-72c73691a979,Latex,Swelling,moderate
+2a0716a9-e0e6-4d24-b13e-2f400491e08b,f41d2c4c-c8c2-44f3-ab75-8e47d9f26a95,Milk,Anaphylaxis,moderate
+d0aea905-3232-4f81-b303-f8b2338e874a,f41d2c4c-c8c2-44f3-ab75-8e47d9f26a95,Eggs,Nausea,severe
+ad0ec28b-3fae-47b5-afcd-1fc6d8965ea5,62f27d9d-0063-4322-be4e-d60d2cfab34e,Milk,Anaphylaxis,severe
+96478e85-bc5b-4588-8e9e-68a678d4a1b2,3f2c9456-2d1b-408b-9608-e91b93d6427c,Peanuts,Nausea,severe
+1fe91e0c-0824-4396-a39e-734804d5c0ce,43d2d543-807b-4a48-b037-1822e61bdbd2,Eggs,Hives,mild
+24cf9d2d-a3d1-49c3-a853-70ac3c2d844b,43d2d543-807b-4a48-b037-1822e61bdbd2,Milk,Nausea,mild
+199b4051-7720-4ba3-828d-a15707f37749,289c5c21-627c-44a2-8758-5a225888a18e,Peanuts,Nausea,mild
+55849ae2-9b08-4e3a-8027-a18f59be0579,289c5c21-627c-44a2-8758-5a225888a18e,Milk,Swelling,severe
+3a672787-584e-4810-955d-96f4215b965f,7b17d0a2-5e18-4842-80a0-cf4ed40a746f,Aspirin,Nausea,severe
+28f4abfb-3d99-4560-9eaf-b527e57282fd,aff374ea-3835-4866-a60a-6fa1d358cee8,Shellfish,Vomiting,severe
+4b366d16-215c-49ca-9e70-d75bf01ba5cb,cf5bf938-9210-434a-8805-9bbe6feac619,Eggs,Hives,moderate
+638e2b69-f427-4ba0-9222-a26968e777c1,cf5bf938-9210-434a-8805-9bbe6feac619,Bee venom,Anaphylaxis,severe
+6aa17817-3506-44f2-9062-550c919b7126,e5ae4395-d72f-4e03-9616-077a0c702b4a,Peanuts,Swelling,mild
+138f7173-7d14-4ff8-8810-736147187a95,e5ae4395-d72f-4e03-9616-077a0c702b4a,Milk,Rash,moderate
+26cf005f-d501-46b1-ba73-c8a8ea88bb0a,67345b93-6850-4f50-bbed-114eda4bfe09,Aspirin,Vomiting,moderate
+2c426db6-bc00-42ad-97db-8b62e9405105,da109c8f-bb7d-4fcc-9fdb-ecbe88a91d2e,Latex,Nausea,mild
+d78df35f-46eb-477b-869e-85ce962e78d1,dad724b1-0b29-478f-863c-41ec5e3ff67d,Aspirin,Swelling,severe
+7022f96c-cc79-44fb-b286-4f2f1f39af74,dad724b1-0b29-478f-863c-41ec5e3ff67d,Bee venom,Hives,mild
+774b3824-65f3-4b44-a681-00df9ebd3a4a,fee5dd78-736f-44c4-acf3-78f0dff2d011,Latex,Anaphylaxis,moderate
+336f72b0-2558-45fd-8299-930412ae7d66,fee5dd78-736f-44c4-acf3-78f0dff2d011,Eggs,Swelling,moderate
+d207d170-66a4-4d12-b473-d8fe28d55cb4,48af33a8-edaf-4cca-9036-16e76dc601a7,Milk,Nausea,mild
+aeb782a5-a7da-4cfa-afe9-49aea5cdf4c4,48af33a8-edaf-4cca-9036-16e76dc601a7,Latex,Swelling,moderate
+eb2a4564-673f-4ae5-b32b-763be3b16daf,0d5c9210-9055-4d04-b673-14a43da18ef5,Eggs,Swelling,mild
+f77d6769-cd0b-4964-9207-be77547224f4,0d5c9210-9055-4d04-b673-14a43da18ef5,Penicillin,Anaphylaxis,mild
+c7e0b4da-bca3-4ac3-a29f-6fe5de73e374,3b283680-5935-4739-b76b-f80dfb64cead,Penicillin,Vomiting,severe
+b3cf1b5b-4145-4dc1-ae83-8b9eaf6a3c0c,1a0343a0-1371-4054-9318-c8748c2f34a1,Milk,Hives,moderate
+1dc77b6d-d3c4-42b9-8024-c13265ed0b52,1a0343a0-1371-4054-9318-c8748c2f34a1,Eggs,Nausea,mild
+b9f24955-2110-4248-b46e-036f241f9bb6,e70a495b-915e-45d2-8c9a-fcc39d8bdc90,Shellfish,Nausea,mild
+511f7e96-08d2-48ba-9658-5e303182bb50,e70a495b-915e-45d2-8c9a-fcc39d8bdc90,Latex,Swelling,severe
+caad685b-e110-4a2d-bd0c-fdedcd8e59d7,f593db83-a911-4833-9d1d-b46b940749c4,Latex,Swelling,severe
+b2e7f832-a290-4109-967d-79793ce8d245,f593db83-a911-4833-9d1d-b46b940749c4,Bee venom,Rash,moderate
+edde406d-5e32-4de7-830a-4aa29899c46a,ae5176a2-03eb-4dbd-a5c7-271a6142dd61,Penicillin,Nausea,mild
+2f117e29-60e1-467e-bd57-936b4be2af1f,ae5176a2-03eb-4dbd-a5c7-271a6142dd61,Bee venom,Swelling,moderate
+e58b0a3e-1631-4fe1-8174-c5cbb5d62018,5b248b2a-8c3a-4269-9437-941110d9f77a,Aspirin,Vomiting,severe
+b7d415f8-63a7-49be-9b0f-43d9cb791b94,d3e4a9f3-d42e-4357-9601-2716229a496e,Milk,Nausea,severe
+6344707f-92eb-4bdc-95ca-d069a8ee80b9,d3e4a9f3-d42e-4357-9601-2716229a496e,Peanuts,Rash,mild
+a727ef3b-2843-4b2e-9564-89e3df7656e1,3c6db365-909f-49ad-889b-7edbefe6dd92,Bee venom,Anaphylaxis,severe
+25f90e63-a8d8-40ed-ae18-015d1293a15c,2b3b2fd6-1715-4f05-847b-28757cd82cb8,Bee venom,Anaphylaxis,severe
+59a8acc8-fe84-4c1c-a440-db4c46aa5175,d035e271-ed17-4e8e-bd4b-450974a5af4d,Milk,Rash,mild
+a9b79784-effb-4ee6-b723-6c80cef88bab,d035e271-ed17-4e8e-bd4b-450974a5af4d,Milk,Swelling,severe
+eebfe6fb-6f89-431d-9c70-d8b6c3a6e470,fd856d6e-3a70-485b-a2e4-07e688101745,Penicillin,Anaphylaxis,mild
+feaf0c32-c18b-4675-af8d-71f84e31dc0e,ab7138d7-8d5b-40cd-b6c2-be130b5dfb25,Aspirin,Hives,moderate
+39ee915d-4ebc-422a-90a8-8c4b1cdd41f1,ab7138d7-8d5b-40cd-b6c2-be130b5dfb25,Aspirin,Vomiting,mild
+add9a164-e860-44d4-9975-9f437707af54,12a806dd-4527-4506-be71-76795bbcf328,Milk,Hives,mild
+a80a540f-30eb-4b50-b0af-f0ae12480434,44a3e2d4-7607-40b9-8b9d-5ca3d765c596,Milk,Swelling,moderate
+c2302e27-9b6f-4c1a-b5f4-067dcf1bf78f,b7c3223b-b1b1-465b-b2e1-067ca12ac145,Peanuts,Vomiting,severe
+fe95905f-0fb6-43eb-8a17-8ff088c41594,0018f893-85d7-4595-b2ef-453dfdf3f6bc,Milk,Swelling,moderate
+853bc2f2-f0aa-4ea7-b518-0ad1475631d1,95dfd992-4358-4141-9232-206ee2da5c9a,Latex,Rash,moderate
+2ddae045-f8b8-4d08-86df-ae153e828c4d,95dfd992-4358-4141-9232-206ee2da5c9a,Latex,Rash,moderate
+7d66323f-dc34-4749-ab6f-0b0a92229e83,ae89a325-54bd-45e5-9d06-20100b14c672,Shellfish,Rash,mild
+c6598bd7-b324-42b5-a4bc-e82daeedd9dc,ae89a325-54bd-45e5-9d06-20100b14c672,Shellfish,Anaphylaxis,mild
+e784d1a4-d3a0-4e74-ad46-586e149b54d1,ef767038-decb-4854-9567-f17dc35a04cd,Penicillin,Swelling,moderate
+0b8c338b-35ea-438d-b5ea-8ae2eea7e3f1,b57ee298-5b61-48d2-830a-ea1eda2e0ae7,Milk,Nausea,severe
+952daeb1-9eea-4c95-b327-aac93b856018,b57ee298-5b61-48d2-830a-ea1eda2e0ae7,Penicillin,Hives,moderate
+cd393cef-4714-43d0-9ebf-083432c751a5,7e47d151-6a00-4f92-a8d7-a4f50372f7da,Latex,Anaphylaxis,moderate
+c3286c3b-2f91-4bcc-ba4d-5588854cd81b,cbcae8f0-8e65-4a8b-b106-64b8fbba2cb4,Aspirin,Rash,severe
+22d04c6c-d3a9-4562-afc5-003ecbe54899,cbcae8f0-8e65-4a8b-b106-64b8fbba2cb4,Peanuts,Rash,severe
+baf8f249-2c84-4aa8-96ff-90a658ec89a2,a54778be-a86f-4921-b49a-c1a9aca0c64b,Shellfish,Hives,severe
+97cef54c-b2ec-409b-ae64-ce060db9c0fe,4f9f2cee-a852-49b3-b7cb-319b03e0136f,Bee venom,Vomiting,severe
+1bd1cd48-3a40-42c4-b87d-b1fd269b632b,135d5f77-2ca0-4b54-9eeb-dfb71eb46b18,Penicillin,Anaphylaxis,moderate
+ddfff876-7fdd-4a30-a658-94a54d4a394e,135d5f77-2ca0-4b54-9eeb-dfb71eb46b18,Latex,Nausea,mild
+36ad1b39-c59a-44bb-bc06-65caf515b7d8,ba1f770b-dcd2-4193-9663-67320f08330f,Shellfish,Swelling,mild
+d68e4a39-8bbe-4aba-8fe7-81db11830adb,ba1f770b-dcd2-4193-9663-67320f08330f,Latex,Anaphylaxis,severe
+cfc75491-b506-42df-887e-d4fcab4508ad,2881f440-823b-4935-98fa-b2a09f72d7a4,Peanuts,Vomiting,severe
+378eac26-dd87-4e57-9613-2442a86cc337,2881f440-823b-4935-98fa-b2a09f72d7a4,Peanuts,Anaphylaxis,moderate
+6a06548b-513a-4e5b-b39f-a4f6292399ed,63485359-ac29-4175-a89b-627322e1d5e7,Eggs,Nausea,moderate
+7617c58b-11c1-44a2-bf35-b71a6c2f9749,63485359-ac29-4175-a89b-627322e1d5e7,Eggs,Rash,mild
+e7c3ebef-a693-4406-bebe-dc8c6acaa519,b7389248-af4e-4b89-b739-7ff98b5d14c0,Shellfish,Rash,mild
+5ae5d646-1c62-42ac-bf18-9b8ba05434db,b91d7311-60a6-4b76-a957-46bc6470251d,Aspirin,Swelling,mild
+04570372-d17b-452f-9aae-e4b63d50b45f,b91d7311-60a6-4b76-a957-46bc6470251d,Eggs,Nausea,moderate
+7d1cc6ae-d59d-409e-8955-7e2df7f440af,105ee11b-d999-4254-9b49-28e33a7cb2c3,Aspirin,Vomiting,mild
+08e514e7-6b3f-4642-9f5c-0ed8f3b73fec,8b4f7501-8d82-45cf-b581-e264ac4b0864,Eggs,Hives,mild
+9d7abb94-5306-4f4a-b41e-0447fcb8f071,8b4f7501-8d82-45cf-b581-e264ac4b0864,Peanuts,Vomiting,severe
+2e3828a0-2a26-4df1-aea8-fd3d3db1d6aa,4fbb7603-d223-4cc6-ab50-e95c9a170947,Shellfish,Swelling,severe
+ac3c43a1-e7be-4bb9-8e08-3ccc7ff38a92,9e0e59a1-7f40-4dc2-b56f-d90d5d086bb4,Peanuts,Hives,mild
+4939f591-c46a-4c2a-a716-ae062f040499,9e0e59a1-7f40-4dc2-b56f-d90d5d086bb4,Shellfish,Nausea,moderate
+89343d84-a806-4d13-8a3c-30bcf3f60ee6,96b15683-d468-4a3d-b44a-d117dcb280e9,Shellfish,Anaphylaxis,severe
+319c1978-216d-4add-b8a5-c3b5f4da3c66,1eeb9656-ba16-496d-9325-794588860a64,Peanuts,Swelling,moderate
+3f5d92bb-e282-4046-8d7d-ab30d8ce87bb,1eeb9656-ba16-496d-9325-794588860a64,Bee venom,Rash,moderate
+5b4f3d12-c0aa-4795-ae6d-e82fbe44ab1d,532681ce-2e87-4cde-9077-74901e36dfaa,Penicillin,Anaphylaxis,mild
+35d829fd-ec15-4b5f-9b20-a459d6b1b92b,6018123b-d11a-4350-abe6-45c9d0527f2a,Penicillin,Vomiting,mild
+7cc8ce48-1fbd-4176-965e-fa3332bc8a91,6018123b-d11a-4350-abe6-45c9d0527f2a,Milk,Anaphylaxis,mild
+de04406e-00f5-4c65-bc55-f553c86ddd66,a911b1a5-f2dc-4ece-98e1-d82ca54bbecd,Aspirin,Rash,mild
+2dfd2265-36e9-43bc-b3c8-faccefaaf2fa,6ee6364f-8b0f-431f-abd4-49b848f520a9,Aspirin,Rash,moderate
+c19f002d-49ee-4179-85b1-59ad48023c5f,6ee6364f-8b0f-431f-abd4-49b848f520a9,Peanuts,Anaphylaxis,severe
+f12a5dcd-6560-435d-ab77-1f8cb94342e1,8bd089f0-8f65-40d6-b61c-04e10e38cf58,Penicillin,Anaphylaxis,mild
+953d7def-fae1-4e51-917e-80be3c7ffd79,c4f6b26a-f6bb-4f21-acb7-7f65352b3a46,Shellfish,Swelling,moderate
+6e1ff6e6-3dfe-406b-bf0a-38a221876d3e,e4224bc2-09ca-457c-9ac6-856ce1ab82e9,Milk,Nausea,mild
+31440290-aa76-4eac-9964-f9f8f88fe722,0d915c08-c83c-4d37-a588-62d32c23236b,Shellfish,Vomiting,severe
+6fba86a5-d7c5-4c12-88cc-585657aa63ea,3a29367d-c7a3-4167-a822-53e004cec9ba,Eggs,Nausea,severe
+b2cf6434-7787-48e8-92a1-5bca371de0e6,12f6410e-9929-40f9-a356-e220b479c8d4,Bee venom,Vomiting,moderate
+db2c8635-b353-4285-b93b-7514b691e78c,12f6410e-9929-40f9-a356-e220b479c8d4,Bee venom,Vomiting,moderate
+08423877-7efb-47c8-9f15-768ed9ee0d1d,5a5ab332-2a8e-4dad-969c-3de41c247636,Aspirin,Swelling,severe
+fbbf7b98-ac98-402e-919d-c870f7c60899,f58e77bd-301e-41f7-8622-38b52b8efbf6,Eggs,Rash,mild
+892d0cc6-f901-4b16-84ca-03480ff708e6,13c5e09a-35f4-4774-be51-b6ab079038aa,Aspirin,Hives,mild
+0d499b81-4293-436e-b236-2ba7b454b28a,1da2307d-816f-4b0a-9a47-570f62d01403,Shellfish,Hives,mild
+a93abd48-079e-4ac1-bb7d-37f3dd1e5a1b,1da2307d-816f-4b0a-9a47-570f62d01403,Milk,Swelling,severe
+9c841b3f-12bc-4e7d-a8dd-f50840e50ef7,99a931ee-5009-4484-8844-97e852790245,Milk,Anaphylaxis,mild
+a1117611-6b03-4eaf-a424-701d5d848612,abdd5087-3941-4269-8112-b2bc2ade74db,Peanuts,Rash,severe
+ea6575f0-63a4-4259-8c4c-6c36c5335604,dccae271-3a36-46f9-b82d-32be3eccfb13,Aspirin,Hives,moderate
+6720180b-1b8a-458f-bd06-04dda797da19,dccae271-3a36-46f9-b82d-32be3eccfb13,Eggs,Hives,moderate
+cdbcf3b1-cfcd-45bd-a14a-0ff2721987c0,ff45d239-e9fc-4888-b4f3-1ca1fe651b9c,Latex,Vomiting,severe
+02f0d6fc-b852-47f5-a17e-9e56d4b2e764,ff45d239-e9fc-4888-b4f3-1ca1fe651b9c,Aspirin,Vomiting,severe
+f9d94198-d496-4341-99da-e9f957845542,19b2ad14-ba07-4608-b5ce-572613a8541a,Peanuts,Nausea,severe
+2163261c-334a-41a9-a793-f7ad57bd3097,996378d5-de1e-45c7-83d8-0917d0adaf2c,Milk,Anaphylaxis,mild
+0e3f1d8e-1cfb-492d-9040-99e6a5284262,c42856ae-f5b7-43bb-a102-2d952da985af,Latex,Swelling,mild
+366c5b54-e956-4ba5-ae23-8dfbe90f2df3,c42856ae-f5b7-43bb-a102-2d952da985af,Latex,Swelling,moderate
+278a9e92-1e8c-49ed-9617-f6601e683353,5c65237f-3824-4b80-ba90-21531ddd242d,Eggs,Hives,mild
+5b2480c4-6fb6-4750-b807-38610a83a9be,5c65237f-3824-4b80-ba90-21531ddd242d,Shellfish,Nausea,moderate
+2e7d9bd4-3ca0-4b1a-a188-ff6efcac05db,5acd76d6-faa9-48f8-af31-cb5bae934248,Eggs,Hives,severe
+536c931e-10fe-4433-ab03-2f28db4718c3,a34e569c-fb43-4b66-a520-a5d5284906a9,Shellfish,Hives,severe
+f92e0c9d-2956-4bea-981a-f98e693192c2,7cf2c459-eaee-4c91-9351-ae941f6a86a3,Eggs,Nausea,severe
+9b45e9bf-8a17-473c-9e86-30714c2d4d9e,d2d2eb12-89a6-48b1-84d9-4f7f9c1e244d,Eggs,Vomiting,mild
+730fa03b-a503-4452-801e-2a06db3b40e1,d2d2eb12-89a6-48b1-84d9-4f7f9c1e244d,Shellfish,Vomiting,moderate
+375ae1d9-33b1-41f2-bc67-357227a18198,75b4d0b6-8db6-4e7c-af91-d4bb76043067,Eggs,Nausea,mild
+8e346d9a-aeb6-4ecf-8586-b16c5ee2c85e,635a00f3-83df-45d8-8add-7e9fc95dccfd,Milk,Anaphylaxis,mild
+e7e10a38-d602-4292-b0cc-ef419670a2f7,635a00f3-83df-45d8-8add-7e9fc95dccfd,Milk,Rash,severe
+840c303c-a2bc-4ce9-9f9a-a5b4f7687685,9f7961c5-9444-4b35-b1c6-b4f24f597a95,Latex,Hives,mild
+814930b9-07b5-4347-a5ad-e7f28cd24fa3,9f7961c5-9444-4b35-b1c6-b4f24f597a95,Eggs,Hives,severe
+b72fccb6-f4bf-4c4b-a1f6-00ce1075606f,2a1e879b-9758-4731-b970-a36fad07340b,Aspirin,Swelling,moderate
+3e850851-75c3-416e-ab4c-17dffd65aee1,f0dc570c-eac2-4bea-beaa-210807d3c54a,Eggs,Swelling,severe
+5189d1ca-3477-4fdd-918c-537e2d9ce0b7,f0dc570c-eac2-4bea-beaa-210807d3c54a,Milk,Nausea,moderate
+e80736f0-98c3-4771-9ad9-e5e574f26921,97f15b8e-30a0-4b19-a6e1-bd9af55e95f4,Eggs,Hives,mild
+9c1d2f55-6bad-48ba-913e-b0d5a9579fce,97f15b8e-30a0-4b19-a6e1-bd9af55e95f4,Penicillin,Swelling,mild
+15e18654-05ba-4ccc-b99a-ed5c7f28b965,d1530ef7-fbd3-475b-98fc-349729abbc63,Shellfish,Vomiting,severe
+4feb7564-77fd-454b-81e1-c95b9d3f20ce,d1530ef7-fbd3-475b-98fc-349729abbc63,Bee venom,Swelling,moderate
+ece5d8ac-47fe-4c95-8baa-4483ae50921a,bb9955e2-cd2d-48f5-ac73-58c4b4fef1c7,Penicillin,Hives,severe
+56a80e55-0df0-4c04-80a3-45a5105cbee6,bb9955e2-cd2d-48f5-ac73-58c4b4fef1c7,Bee venom,Hives,mild
+d0fbc129-9375-43c3-95d2-27a54d1ea07e,1f87d91f-06ce-4681-9549-bda0ffd6d787,Shellfish,Vomiting,mild
+0ec109d8-a037-4ccb-8a63-ee2f28692f28,60cfdfb6-bbe6-466d-b0e8-30fff59a242e,Eggs,Hives,moderate
+b43473cb-d2fe-4fac-a174-87e6acffbdd8,60cfdfb6-bbe6-466d-b0e8-30fff59a242e,Penicillin,Hives,moderate
+56589e6c-44a8-44b8-b1c5-dae7dd00e400,f019b7c6-b004-4a83-9202-4eda4dd6a497,Latex,Nausea,mild
+7c623a85-84de-447e-9f06-6031e433f8f0,f9779af5-15fa-475d-8b3a-eb8598cb6c91,Aspirin,Swelling,mild
+b5680666-f5e2-4583-acc1-89f2a6fee1f1,4bf23a6b-75d6-43f7-94f3-6885a8a80d8a,Aspirin,Anaphylaxis,moderate
+a0e539e3-08ef-49eb-b10b-b6a6b08f06dc,bbf4847f-ae66-4ca2-ba39-35c54f867473,Latex,Hives,severe
+bb98c052-240e-48bb-a18b-75a8f0c9f75b,bbf4847f-ae66-4ca2-ba39-35c54f867473,Peanuts,Nausea,moderate
+f5df5c8d-4ed3-49a1-af9d-0b8c554228b9,948fa5f5-3f1a-43b5-99aa-20ca62375e1e,Eggs,Anaphylaxis,mild
+3eae88a0-b18d-4ad8-973d-352aa00ee884,0bd1e8cc-7579-4a81-99ba-129496d6de2c,Bee venom,Anaphylaxis,severe
+4460d330-23e5-4e7a-b27c-bab51d5811cc,531c2d2a-9fef-4489-92b2-1404f28ea275,Milk,Nausea,moderate
+f9548ca9-b999-4db8-831a-46d29b1b3567,2ea10ab2-6c20-4a3d-8c81-fd2ac0ee6ff3,Shellfish,Hives,moderate
+ada77845-716a-4eac-8bf2-ab5abe13057c,0b9376a7-f372-439b-8515-8361e023e700,Penicillin,Anaphylaxis,mild
+1fb6ba31-a447-464b-8523-8bc2cee57716,0b9376a7-f372-439b-8515-8361e023e700,Latex,Hives,mild
+fc15a64d-204d-45f0-a3c7-b23841823f8f,44e2208f-d69f-4ea8-9172-43a215ca5f65,Eggs,Hives,mild
+d2437d51-1832-4e59-9cca-375a7be7198e,44e2208f-d69f-4ea8-9172-43a215ca5f65,Aspirin,Swelling,mild
+897f13c6-e290-4f0c-ba8b-62b0dad6ba24,1b80b682-d24f-4b6f-bea3-b706db496f60,Shellfish,Anaphylaxis,severe
+e7d2ba6a-3ff4-4ce5-aa5a-af809faa49d4,3818ff61-c706-44b4-8bfe-9498be5fbd6a,Bee venom,Rash,severe
+25410a99-fcdf-474c-aa1c-a0a73b313f27,1e6963b1-133a-44b9-9afd-5b3932404fda,Bee venom,Hives,severe
+42bc80c3-06cd-4f35-9ca8-6d839c064c2e,1e6963b1-133a-44b9-9afd-5b3932404fda,Eggs,Rash,mild
+09ca91c5-553d-41d8-97f9-9365d490c0c7,933ec8d6-7b37-4d9d-8660-9128d832d6be,Peanuts,Rash,moderate
+cc0abc1e-b0e8-40b8-b495-f3060e01e669,933ec8d6-7b37-4d9d-8660-9128d832d6be,Peanuts,Rash,severe
+9c732157-8dff-47a9-85db-7e6f938527e4,2483e6e5-26f1-44c7-a05a-1d1cddfc03d4,Milk,Vomiting,mild
+a16f89e6-a63f-4099-beed-a985f2c5610e,2483e6e5-26f1-44c7-a05a-1d1cddfc03d4,Milk,Hives,severe
+11d6a9f9-27fc-484d-9711-62c148798a6f,e4787be4-6433-4149-9c01-fd4121d618a1,Penicillin,Rash,moderate
+4bc79441-4ab7-434e-8275-fd0c74c9ba7f,425e1b68-a470-4297-9930-2ed4b3415799,Penicillin,Nausea,moderate
+16609b61-c4b4-4bc8-85e6-d16baed7b8a5,97da9c1f-6df3-43ee-a1bf-96e93fc969f8,Shellfish,Vomiting,severe
+b127f7e2-68ad-40c0-b526-66ffb53f0dee,97da9c1f-6df3-43ee-a1bf-96e93fc969f8,Eggs,Rash,mild
+9ff2d6aa-fe00-4abc-a64f-75ad6765edfb,9bdabfe6-34ae-4009-bebc-9708e56d86c7,Latex,Vomiting,mild
+075ec52e-9210-4eed-97ad-025824b8226d,2eb6d45d-9c49-4153-ad0c-ce5af347972f,Shellfish,Rash,severe
+6be506ea-b9d8-4456-9ad5-2f9b28b8e8cc,ed3ca454-8e1b-43e3-b91e-c48f37ed925f,Latex,Hives,severe
+138c14f2-2a38-4589-bac1-79af6ffa8597,0895cd14-d8de-4b01-bec3-9c72324df045,Latex,Nausea,mild
+c67e91ab-ff60-4437-9b0e-cedcb2a598bc,0895cd14-d8de-4b01-bec3-9c72324df045,Milk,Anaphylaxis,mild
+e5a2818e-697a-4c98-b863-2706854a347b,63eeaabc-cdb3-4cc3-8333-772ab9a519a3,Shellfish,Rash,mild
+9d66f8a0-3e9a-442c-8063-9a62cb95e5c0,63eeaabc-cdb3-4cc3-8333-772ab9a519a3,Peanuts,Hives,moderate
+e1a6f832-1da6-4606-9fad-2a32c016b99a,4b9d98ab-9dac-4afa-800f-f775b4c451c1,Eggs,Rash,mild
+7145cd06-ad36-4688-be06-33a0a7f1666d,abfe0a13-337f-438c-8ff2-1f7662c4b320,Penicillin,Vomiting,moderate
+5fa77f5d-740b-4902-864c-5dec41064802,842fbea7-dc92-4992-a5bf-9913c638f490,Peanuts,Nausea,severe
+628a34ee-cbe6-4cf5-9238-ff156aa933e2,a0b0a944-93d3-47b6-9fff-4647c13f2ba8,Eggs,Nausea,severe
+fded04cc-7abb-4e59-aa5d-9bb2aed43f7f,6651b5aa-5078-4280-9d2a-4bb1c39fc2bb,Latex,Anaphylaxis,severe
+98eb7668-0629-4637-893a-d3c6899c473f,6651b5aa-5078-4280-9d2a-4bb1c39fc2bb,Aspirin,Swelling,mild
+f9497b08-3156-4a74-a856-d3cdeec4ee5c,d12eaed2-e2aa-41a2-a644-87be30f76185,Penicillin,Hives,moderate
+3b1e9ba4-7e53-4df0-9348-ce70dcae02c7,d12eaed2-e2aa-41a2-a644-87be30f76185,Bee venom,Nausea,mild
+ad0071c6-d81c-4246-b192-160d7c57ba1d,dc76e2d6-f40d-4ee1-9ae2-a283a49639b2,Penicillin,Anaphylaxis,severe
+bd6db177-968a-4752-b844-c77151c2de12,bc58714e-fe17-4d7d-8290-d9b74cc6fc9e,Eggs,Hives,mild
+010ef58a-709c-49ff-ab8c-0ad8fdec6ea8,642a6d5e-3167-47da-9efc-997a3c3e386c,Latex,Vomiting,severe
+3af7df0c-6031-40bf-a49e-e4a727abf01c,642a6d5e-3167-47da-9efc-997a3c3e386c,Eggs,Anaphylaxis,severe
+c2ab60dc-6937-4fbe-8c37-aefc879979b2,2031bfb3-93ce-4df4-8846-4bd1c876c2aa,Eggs,Nausea,mild
+90d563c0-6f23-4c7f-91a4-33b6b764affc,2031bfb3-93ce-4df4-8846-4bd1c876c2aa,Milk,Hives,mild
+25b058bf-ffb7-4b5c-bae2-5bd820e7b75a,c8da86f5-0812-4ead-91e2-42f21ae4e9f3,Latex,Nausea,severe
+42ff7d95-5367-4bdb-b226-1500fde84add,7d05699a-622c-4a16-b873-6fd8f5365bdd,Eggs,Vomiting,moderate
+74faa839-1d4e-4e44-89dd-3f50394c2e5e,7d05699a-622c-4a16-b873-6fd8f5365bdd,Aspirin,Rash,severe
+999e47cb-d615-4580-9eb0-fae50f7a5992,4b2cf4b2-bf2c-4ead-a7a8-6612fedd3035,Eggs,Nausea,severe
+15a837c7-96a2-4111-b685-6a9b12a741ca,4b2cf4b2-bf2c-4ead-a7a8-6612fedd3035,Eggs,Anaphylaxis,moderate
+65b7d43f-76ee-4953-ab0e-12be9009b2f3,23d3f781-e6da-4d26-b19e-45f2c6750fb7,Shellfish,Swelling,moderate
+71010a17-6b71-4676-9615-06db3e15d181,23d3f781-e6da-4d26-b19e-45f2c6750fb7,Milk,Swelling,moderate
+836f8484-eea8-4b7a-815e-cf6874ab98b3,3584206b-b905-404f-8611-2e5ee7cda322,Peanuts,Swelling,severe
+37d5e1cc-e56e-4042-9090-f076a2a79e4b,4950f6f0-9061-43c4-b9f0-13e202113e39,Latex,Swelling,severe
+979b0f49-6437-4e4d-a42d-f59aa5e6a273,1d4a0cd4-665a-4090-a5cc-e721ceac46b5,Peanuts,Vomiting,severe
+d2db6d6f-2758-45b2-a1cd-736211511d91,1d4a0cd4-665a-4090-a5cc-e721ceac46b5,Penicillin,Swelling,mild
+b5f27a25-d5d4-4216-81e4-5db1ac84870c,0d0b23bb-4716-46eb-abd6-f1ce65d9aba6,Shellfish,Rash,mild
+7caf66cc-0b7e-4310-8593-73a9a8542037,0d0b23bb-4716-46eb-abd6-f1ce65d9aba6,Eggs,Rash,severe
+b6335168-4c56-464b-94d3-115c89243018,dad8e768-e50d-497b-b15d-20ce5f8f0d8f,Shellfish,Swelling,mild
+792d66ee-1ee4-48af-ab39-7607e3f445ba,dad8e768-e50d-497b-b15d-20ce5f8f0d8f,Bee venom,Hives,severe
+57709191-d014-4d62-a2ec-7f32c3c04567,418d0cb6-1188-42ac-bfec-fe08ffbe70a2,Aspirin,Nausea,severe
+7c7080d0-db71-457d-acc4-880c90597163,418d0cb6-1188-42ac-bfec-fe08ffbe70a2,Bee venom,Swelling,moderate
+aa502551-baaa-46d9-a4ac-47350698559e,c54d8784-1aad-4feb-9b8f-aaf88c6536b4,Eggs,Anaphylaxis,mild
+23fbe0bd-f6ee-45e9-9ca0-b5cc77c16619,e2485bae-3e3b-4c5d-928c-8158c4cc6df0,Penicillin,Nausea,moderate
+7bc82b1d-959c-41cb-a2f7-b933b07561fa,fdf65776-6f80-4649-85cc-0a5f4ede571f,Shellfish,Vomiting,mild
+26a996fe-e0f5-45f6-8a7e-3ec693127cac,fdf65776-6f80-4649-85cc-0a5f4ede571f,Bee venom,Anaphylaxis,moderate
+c3305b93-7042-44cd-bfac-486808dc1cf7,555906ae-b3ba-40e0-88fe-5287abd50473,Bee venom,Hives,severe
+6961e01e-88cf-42c8-82b5-2820a3084891,db16c103-9c67-4bfb-9917-a49a293ebe42,Penicillin,Hives,mild
+f738fd6a-d5bd-461b-b341-a4dc4f2d4a56,db16c103-9c67-4bfb-9917-a49a293ebe42,Peanuts,Hives,mild
+5332c717-1f7e-4fb9-8d32-3105c3154c2b,f5c45885-1b65-497c-b3e2-f0d33dc2f431,Milk,Rash,moderate
+00756c46-723f-4098-94d6-1c608de5857d,cda79331-86b7-4a61-a46b-e358556e8683,Aspirin,Rash,moderate
+4508ab20-5486-4540-9d77-d21837a60e03,cda79331-86b7-4a61-a46b-e358556e8683,Eggs,Hives,severe
+83688f5b-f482-4100-9f24-b9dd7cd7f1a8,39b15aa8-a650-4b58-88a4-ae5cbea9937d,Milk,Swelling,severe
+b695f8bd-fbba-41e7-b14b-c50281a39ad3,39b15aa8-a650-4b58-88a4-ae5cbea9937d,Milk,Swelling,mild
+c502380a-9c36-40a1-8901-399cfe00722d,41a1ece6-3a0e-40f6-807e-f605ad9bbb5a,Shellfish,Nausea,mild
+6df2cf8e-a0ff-440c-9025-10394abd65e2,41a1ece6-3a0e-40f6-807e-f605ad9bbb5a,Bee venom,Nausea,mild
+91ef850f-6207-4d35-9348-da84b083a798,accc5fd0-6328-484e-b79f-91166265d5b5,Penicillin,Vomiting,moderate
+7770aa63-0bab-40e7-93b7-5df5f85d9e04,accc5fd0-6328-484e-b79f-91166265d5b5,Penicillin,Hives,moderate
+96b7aac5-d5c1-4ac8-a1f6-aa6782090159,c5689f8b-3b0e-436c-8d22-a601ab31fa17,Bee venom,Nausea,mild
+99089ccd-6a18-4da8-8103-4940a90e5ad7,c5689f8b-3b0e-436c-8d22-a601ab31fa17,Peanuts,Nausea,moderate
+703b8a44-0948-4fea-bb09-ac563188b6c3,c9e5e100-4b1f-4da1-bb96-1fe13ee3a201,Penicillin,Swelling,moderate
+f91040d4-6416-4e37-810b-35fe1f082ba1,c0817bc2-e813-462a-b8e7-e87a81b96c86,Latex,Anaphylaxis,severe
+eee2cde8-fbfd-4f5b-a38d-6c9b69e44968,7e43ff5b-e211-4786-849a-9b8590787171,Shellfish,Nausea,moderate
+164f9a6e-a549-4a35-9dc7-92069ed4dc7d,7e43ff5b-e211-4786-849a-9b8590787171,Penicillin,Nausea,severe
+aea3db04-b96d-4d68-809b-ec1130ee3ec2,7ecee8ae-2742-4d5a-8216-d2cfedcad406,Penicillin,Vomiting,severe
+06c66354-bb53-4fb9-8030-27bd3ca00869,7ecee8ae-2742-4d5a-8216-d2cfedcad406,Milk,Nausea,moderate
+e4716129-271b-4b69-bdc6-9d1c12f6a00c,bacb2e65-080d-492f-9a1e-89fedb35da2f,Penicillin,Swelling,severe
+8c4838c5-e62a-4cd7-8929-37474d910fcc,17e0333b-3ac4-497e-b0b9-353218d052a2,Shellfish,Vomiting,mild
+b36567ff-2d4e-4163-a213-42829373410a,17e0333b-3ac4-497e-b0b9-353218d052a2,Aspirin,Anaphylaxis,moderate
+14994aa3-4d00-4802-be28-f663ecb915c6,5bca4631-a53f-46e3-a516-ff909314ca0a,Aspirin,Hives,moderate
+a1e5afcd-36a5-411f-aae7-d0f2ed5f536d,1d87cae5-c786-4332-bf2b-5ef2bbeef5ec,Penicillin,Hives,moderate
+f29965c5-19cf-4711-b0cd-40e3d0d50af7,1d87cae5-c786-4332-bf2b-5ef2bbeef5ec,Aspirin,Anaphylaxis,mild
+358b966a-f2d0-4d02-83dc-49739cffdcd0,dd1def0b-2a6a-4a0b-a93d-d6dfa106ae07,Aspirin,Rash,mild
+06d652a0-cad8-441b-8b93-2216bc0a1685,1bfadc64-9008-4a45-b648-7459e6e9c914,Shellfish,Hives,moderate
+afd29aca-5b2a-4241-97d2-293220e953d2,1bfadc64-9008-4a45-b648-7459e6e9c914,Bee venom,Rash,mild
+97bfe654-b24e-479a-8a91-bfa3c6d7c311,fbe11b4b-8b0a-4076-a622-c00a5fb6f3d6,Shellfish,Rash,mild
+8d18bdf5-c4f2-4ff1-bb63-95977cb3feb1,fbe11b4b-8b0a-4076-a622-c00a5fb6f3d6,Peanuts,Hives,severe
+30a5944b-bcbd-41df-b06a-33d635ec8a87,23bbfefb-f5b1-4704-9393-c4a6f9de6ec8,Eggs,Nausea,severe
+390708a3-17cf-4aaa-866f-67cc7cdb4637,f2350161-9ddd-40d7-92eb-206802b0b353,Peanuts,Rash,mild
+08922e95-a03e-4aea-b4b9-47d0d87af6b3,f2350161-9ddd-40d7-92eb-206802b0b353,Bee venom,Nausea,mild
+a2859886-0e1c-4338-9721-27a576e6a809,18ac6868-de49-461a-86f4-0b5b89b0bbc2,Aspirin,Vomiting,severe
+91dae3e7-93e6-4eee-bd5e-42973e2ab475,18ac6868-de49-461a-86f4-0b5b89b0bbc2,Bee venom,Hives,moderate
+5264edda-3843-496b-b2ab-44b6eed245a3,8e338716-4961-41db-93bf-f1be1e36f3e8,Aspirin,Rash,mild
+8cd0d6cf-82e7-4168-a5d5-e34c3a9a1876,8e338716-4961-41db-93bf-f1be1e36f3e8,Shellfish,Nausea,severe
+544e5c73-94b5-4300-b573-05de1f826b55,90f8e7cc-2594-425d-9d09-e2e826c9e1b0,Latex,Rash,severe
+3a2b4a7d-6d8d-4842-a0b1-2bca34032e28,90f8e7cc-2594-425d-9d09-e2e826c9e1b0,Shellfish,Nausea,mild
+7d348f92-b25f-4cde-8018-28ce5605a0e7,15b483d4-c8e4-4009-ba42-c001e85fbdfc,Bee venom,Vomiting,moderate
+46e5d368-4b00-425a-8520-50ddeaff8423,fc101ddf-e582-48a0-ba7d-4e2c356044dd,Shellfish,Swelling,mild
+5dccca7f-1eb6-4112-9e8b-b938a0ba88fe,ad9291a5-c58c-4573-8a01-dd28c287e571,Bee venom,Anaphylaxis,mild
+6ad17e04-415d-4a59-9ae2-1e21c1dd91de,f46f4c5b-dfbf-4ba4-a782-d6d3b60c742c,Latex,Vomiting,moderate
+da3e2d13-0a59-4266-b0a3-efed9f23f5df,faded13a-c371-4d52-816a-16b4ceafb59d,Peanuts,Nausea,moderate
+48349ced-ae94-4cf1-939a-9b2a4ace933b,faded13a-c371-4d52-816a-16b4ceafb59d,Bee venom,Nausea,severe
+bf461992-5b62-4f2d-8def-57b8a0c70e4c,09f67f1c-edc8-49c2-98f3-a0b796efd6a6,Milk,Anaphylaxis,severe
+2e0f38d3-dc79-4cd9-9ac8-1063d9638f23,1696373f-d710-4186-838d-560d6057f130,Aspirin,Swelling,severe
+7a091b89-2e8d-4bac-a57e-a157135c980e,fb896e34-f233-446e-9ff2-70add4f8ea9f,Shellfish,Swelling,severe
+f7c59fdc-9d7f-4882-afd6-1faeb46858ac,49f17b26-3182-4393-82da-3cadd780b94c,Latex,Anaphylaxis,moderate
+690f43ce-8083-4b11-bee3-a60d2a1e8b96,f1e5708e-1ee9-4f07-82c2-dfc427837e10,Peanuts,Rash,severe
+d580ee0d-67ce-4585-9b4d-cd7865383337,edaf01bc-56c3-45aa-9b47-123a10fa7908,Milk,Rash,moderate
+a2c31afd-d846-47d9-bfc7-10c8cc7530ca,edaf01bc-56c3-45aa-9b47-123a10fa7908,Shellfish,Hives,mild
+b8e2d73e-d94d-4bbc-88b3-23e85b34948e,d0d5318f-f585-4a74-964d-141c36145259,Penicillin,Swelling,severe
+9363fa62-984e-489d-90c0-f5249fe32c52,d0d5318f-f585-4a74-964d-141c36145259,Latex,Nausea,severe
+9b583168-9695-4f53-adaa-0f9569fc79c1,ac635b46-69c0-4b98-82f6-fd1bfc1ec62b,Eggs,Vomiting,severe
+04f7fe82-7627-41aa-b0ec-5fc6873593de,3c1c4537-5dc2-4e15-9253-c7c640a2bee9,Milk,Hives,moderate
+0cb2812f-d195-4110-9d2d-98651a9974b7,3c1c4537-5dc2-4e15-9253-c7c640a2bee9,Latex,Hives,mild
+f1b3bfa6-2a6e-43d4-9dd5-f5e7b7c410d5,78181715-7cc5-4b70-90b4-60f7c6ce3898,Bee venom,Rash,moderate
+412040b5-b033-460b-83a5-dee3af70c137,97c134eb-1480-4241-b86a-59051ebea9e0,Peanuts,Hives,mild
+1b6df3ad-01b7-4e96-8e4b-5cfa1d7482cb,97c134eb-1480-4241-b86a-59051ebea9e0,Peanuts,Hives,mild
+abe565ad-4f38-4bad-9c8e-bb329436acb2,7e2c5d84-073c-43b6-964b-38b4f5a09041,Bee venom,Anaphylaxis,moderate
+e79a00ca-d8ad-4eda-aab4-3e93ae885b2d,5deeef85-1e8a-42c7-8ad3-0e1f72dc0b64,Peanuts,Rash,severe
+27041cf2-736c-47bb-829f-2a63b02f5c39,5deeef85-1e8a-42c7-8ad3-0e1f72dc0b64,Aspirin,Hives,moderate
+f7eda7ba-a7d0-4d68-a14d-4993b9de969b,56769f69-cb16-4b4a-b656-ffffa9162875,Peanuts,Swelling,mild
+edb24965-7151-414e-952f-1523a535c298,56769f69-cb16-4b4a-b656-ffffa9162875,Shellfish,Swelling,mild
+f7b1596a-3330-441a-bf47-d3d90fc289de,276c4747-1d51-45e5-bac5-c1639f62af27,Milk,Nausea,mild
+9f493aa9-ffcd-4cce-8204-2edef5a74445,276c4747-1d51-45e5-bac5-c1639f62af27,Latex,Vomiting,moderate
+b055a41b-aa23-4cbd-83dd-371c9cfb15fc,bf7f1098-9875-4d01-82ae-68feb42b807a,Peanuts,Vomiting,moderate
+33b68b2b-74e7-4914-b717-e39dc8821d03,bf7f1098-9875-4d01-82ae-68feb42b807a,Latex,Anaphylaxis,mild
+5162e815-9f14-4a1e-baa2-3f4986cc80ed,6a10ac23-732f-4134-bd19-bdeccb97d8cb,Peanuts,Nausea,severe
+c7742843-ec86-4b33-8532-e1d44b2cdc4f,6a10ac23-732f-4134-bd19-bdeccb97d8cb,Shellfish,Anaphylaxis,moderate
+4eb9ff65-3ea0-483f-96d7-957f773162c4,8f56cd52-34e7-4157-884f-364259df7726,Shellfish,Rash,moderate
+c7bc2c8a-5969-4c05-9205-d85c8a35646b,8f56cd52-34e7-4157-884f-364259df7726,Eggs,Swelling,severe
+779cc91d-ee8a-4711-be2a-c5e45cde4aee,9e2cbd1c-b70e-4fb0-82ec-59fe861cb899,Aspirin,Nausea,mild
+91772554-b807-460a-b864-3bcd44a292ec,e7f370ce-5bb4-4554-933a-3bd60fe3518c,Milk,Nausea,severe
+a1cbef95-6adf-43ba-8d28-7d21ec17ba02,e7f370ce-5bb4-4554-933a-3bd60fe3518c,Shellfish,Vomiting,moderate
+ca894639-4986-448c-830e-8ce6310ddbad,ba660646-d1d1-44eb-bcdc-45870a57d3c0,Penicillin,Hives,mild
+643f0f9a-89f3-468e-90a7-caad60ba9bd9,ba660646-d1d1-44eb-bcdc-45870a57d3c0,Bee venom,Hives,moderate
+fe58d5e4-ed88-4338-bacb-8785c96690b0,fc426e4e-81b4-417d-a85c-b1387c5974ee,Aspirin,Anaphylaxis,moderate
+19bfcc9a-1432-4e9a-b908-1a98cdf31551,2b0c0289-103a-45d5-8694-7f2c5a3ff1ae,Eggs,Vomiting,mild
+98f07a53-df3e-4386-bfd1-ac26b1b076aa,5afe2147-dda2-4a0f-898c-c365e2c66899,Peanuts,Anaphylaxis,moderate
+29abf562-5209-4e73-b68a-e124831b41d4,5afe2147-dda2-4a0f-898c-c365e2c66899,Peanuts,Nausea,moderate
+b0069640-c0fe-4fcc-9ab5-fa89a18ede9d,13af873a-282e-4646-ab7c-338c1c31f650,Bee venom,Anaphylaxis,mild
+e91d1227-0209-47d8-91af-5a8c6acbada6,efd913c4-54c5-41a1-8f29-1e5f38152723,Latex,Hives,severe
+abdfcf01-4a38-4f7d-b1d9-0ee0c1ab0f5a,f5744b05-8604-4a2f-8671-2a9195a24ac9,Aspirin,Nausea,severe
+4a99a5e7-cc34-41e5-b601-41e2917d35b3,f5744b05-8604-4a2f-8671-2a9195a24ac9,Latex,Anaphylaxis,severe
+fe3d49bc-6d46-4259-85fc-c807a2f897ab,307b165f-911c-4efa-ba72-a21619781976,Peanuts,Anaphylaxis,severe
+ab86fd9d-7b1d-4af3-9252-e592b4341679,5c819459-8ae0-474c-8909-2b3f7f9e9eb2,Peanuts,Vomiting,moderate
+46aaa204-8053-4efb-94c5-bec978affe28,5c819459-8ae0-474c-8909-2b3f7f9e9eb2,Bee venom,Swelling,severe
+c126e9fa-a3f1-4de2-9f39-38c6883920b8,4f231376-fcde-435d-886a-0fcbb476fa86,Eggs,Swelling,moderate
+26adfb0e-92f9-4c3d-8edb-426feff6b246,7c285642-3162-49ef-8e3a-f5b18ce7b57b,Latex,Swelling,severe
+91ab10ce-68df-4255-9acd-9a4d6e4f51bd,7c285642-3162-49ef-8e3a-f5b18ce7b57b,Eggs,Vomiting,severe
+fdfe9adf-d1ce-4ee2-b4ef-d9ede8400027,a50b77c2-150b-4dbc-a148-b2f1d9876c71,Aspirin,Anaphylaxis,severe
+82c10fcd-6025-4b71-b9a7-78070ddf859a,a50b77c2-150b-4dbc-a148-b2f1d9876c71,Shellfish,Hives,moderate
+6da2b688-9c88-4dad-8bc3-867848f4e5b4,f632f3e8-e600-45dd-93c5-6ae62bb96db3,Milk,Vomiting,severe
+e75736ab-4683-44be-9419-e3032c379e14,f61ed181-a2e3-41d8-bd6c-93031503ee63,Aspirin,Hives,mild
+8ad23a24-c8ce-4a81-b80e-74eb26020b58,455899f9-8fe5-4e35-82cd-84ad1c52042b,Milk,Swelling,severe
+0fc11446-b9c3-491a-a9a3-dc9fab5ba889,159fcbe9-2b23-4bb4-a7c0-f1e41883558c,Penicillin,Nausea,moderate
+d2e1de64-8ac7-4d13-81d8-b838cbd1758d,c14b7a17-dc9a-4cde-b1ec-892d8486b768,Shellfish,Anaphylaxis,severe
+5a834a1f-ce29-485c-9927-64b96f6578be,c14b7a17-dc9a-4cde-b1ec-892d8486b768,Latex,Hives,mild
+1b6f0a91-6f08-4fd3-bcfd-410db7bef985,a4356aba-c43e-4306-9fc0-b19faafffacd,Eggs,Rash,moderate
+cd581df1-f9c2-468b-9c26-82b6236ace19,a4356aba-c43e-4306-9fc0-b19faafffacd,Latex,Nausea,moderate
+662b9070-adb9-4f2a-aaeb-680d90465784,0798d836-04aa-4f7b-9151-72c6e8a3a58f,Shellfish,Anaphylaxis,severe
+c2347cb1-8521-49e0-9f69-cc69c9211dee,d8e82e6a-6a70-429b-8d59-ad3d34684590,Peanuts,Hives,moderate
+a21da136-acd3-4546-a003-918b590ab59e,796f6589-ff3e-48e3-8978-11b41238fc4d,Peanuts,Rash,moderate
+0dcdb956-6b61-4883-a5dd-db04f09b60ef,796f6589-ff3e-48e3-8978-11b41238fc4d,Eggs,Swelling,moderate
+aa395ad0-7ef6-4afd-8967-e19990cabe7c,fa888364-af05-4004-9dac-fddc56b472b6,Latex,Hives,severe
+98a9c8ae-f300-49a8-9b22-4a70fa33a6ad,dd3c0111-28bb-4b12-b63c-de9e7251f869,Latex,Rash,severe
+44b66b63-75d5-480b-a410-63d684ebce99,dd3c0111-28bb-4b12-b63c-de9e7251f869,Milk,Hives,mild
+67d8a19c-d9f8-45fb-8771-4228b5b6309e,c6d17233-cc56-4ac5-9bbf-a1d6bc1f7da8,Bee venom,Anaphylaxis,mild
+df77d191-deb1-4fdb-a0d7-691f497dc135,c6d17233-cc56-4ac5-9bbf-a1d6bc1f7da8,Bee venom,Vomiting,moderate
+fd08a7b6-ca54-4a74-bf7a-cebdad03b729,561a7ba5-4809-4416-b70e-91c981e943d8,Peanuts,Anaphylaxis,mild
+f9a42899-0947-4bf9-b5b0-9a7ce2e44b1a,dc9bc8ae-beaa-4826-9560-3a127132d2c0,Penicillin,Hives,mild
+17c73a74-94f6-4d8c-8a52-4f29567f8921,dc9bc8ae-beaa-4826-9560-3a127132d2c0,Peanuts,Vomiting,mild
+4cb38c05-8451-4ee5-b294-c171eb3f3637,da959203-dd4e-4747-9409-753812c93653,Aspirin,Swelling,moderate
+9cb366c4-8f5a-4cd4-a3bc-87fd382b150a,da959203-dd4e-4747-9409-753812c93653,Milk,Vomiting,moderate
+287ca32f-4cba-419e-a81e-fb20dd3ee9fa,2fe6026d-040b-470f-a788-703a0923fb8a,Latex,Rash,severe
+159c6df3-ece3-4d5d-aa37-121aede66ec0,2fe6026d-040b-470f-a788-703a0923fb8a,Latex,Vomiting,severe
+9866fdc4-ede5-4f27-a8af-ce86e0fedb11,003e9a51-f749-41e2-b2c5-f1ba83f165e2,Bee venom,Rash,moderate
+266b133a-a177-4f27-be58-8790827504dd,733e456f-b905-4f27-b1f9-c73233e55415,Peanuts,Anaphylaxis,mild
+23a91a02-d2c3-4515-aaa0-5db8b206df0f,733e456f-b905-4f27-b1f9-c73233e55415,Aspirin,Rash,moderate
+c5a632c4-3734-4e64-84a0-04fca6ea1dd7,cbb8c6de-d23a-44f1-b361-1752455974f3,Bee venom,Rash,moderate
+e676df79-83ec-4d43-ba41-a935d082fe56,cbb8c6de-d23a-44f1-b361-1752455974f3,Aspirin,Hives,moderate
+86bda412-8f22-48a4-880b-f35bcc880d30,b6856f07-6360-4ff3-8e2e-ff75e0b86ca8,Penicillin,Hives,mild
+ae33caa9-3982-4afa-8252-76bd656d81d0,b6856f07-6360-4ff3-8e2e-ff75e0b86ca8,Peanuts,Rash,severe
+f639c9f0-0814-4b42-9ee5-045cfef9d3ce,33046af1-c113-4f7e-a649-91e07883428f,Milk,Rash,mild
+31eaa388-bf07-484d-9c41-5910fca3f3f7,33046af1-c113-4f7e-a649-91e07883428f,Penicillin,Rash,mild
+092e8f7e-4a05-4ed1-b8df-ffaeb8b0e692,30dbb7a8-9fa1-499a-9052-14806875fbfe,Latex,Anaphylaxis,moderate
+1031625c-8edd-4736-8153-69c9394797cb,30dbb7a8-9fa1-499a-9052-14806875fbfe,Eggs,Anaphylaxis,mild
+c7a41c3e-80c4-4d35-9094-e1e8baaa6617,2b284bc1-675e-438e-b5a2-9f1070819781,Milk,Anaphylaxis,moderate
+8127a2ba-7bbd-4e5f-a7f7-b28fe930000a,b5128400-ab70-49b3-a54e-e222ba416708,Bee venom,Anaphylaxis,severe
+ea197f1d-14f1-4ca0-bbfb-6c54be7c14d6,b5128400-ab70-49b3-a54e-e222ba416708,Shellfish,Rash,mild
+f977dbac-7224-4f8f-b97c-e39609ff6269,869281d8-7147-4149-9abf-ec279bf6bb51,Peanuts,Nausea,mild
+45f3f105-66ed-40ff-8fe6-36929f63037a,869281d8-7147-4149-9abf-ec279bf6bb51,Milk,Anaphylaxis,severe
+7bedcf19-3e6b-42a3-90af-8868d0da9735,6f74db90-8008-456b-b3b3-83b751b0c5af,Peanuts,Swelling,moderate
+c7275736-c995-4131-97f6-4c0d24143998,6f74db90-8008-456b-b3b3-83b751b0c5af,Milk,Anaphylaxis,severe
+ef41a5b5-0758-4fcc-963e-ad1bf7cfd2ec,cb053c02-26b2-4485-8d11-a527c3852bd3,Milk,Swelling,moderate
+3114ab36-5359-49fa-8d6d-6b7ca1037a3a,cb053c02-26b2-4485-8d11-a527c3852bd3,Aspirin,Swelling,moderate
+8187c063-2561-45c0-8fc8-8d7fe81e5b63,6c38c00d-8e87-42f5-aa74-0d16e2864f6c,Peanuts,Hives,moderate
+b347c9f6-5586-4d48-8b42-103975ce7660,e2c246fb-b7dc-485a-b726-4ef751000fb1,Eggs,Anaphylaxis,mild
+6da6561d-6c6a-4139-8919-42351cb2e13b,e2c246fb-b7dc-485a-b726-4ef751000fb1,Shellfish,Nausea,severe
+a641ab6e-b712-4ce9-afa7-58f45b33f3ab,946e5e5a-dc0c-4a33-ad14-4cde81418fc9,Eggs,Nausea,severe
+ae361871-75db-4565-b0e0-46ed6df6126b,946e5e5a-dc0c-4a33-ad14-4cde81418fc9,Peanuts,Nausea,moderate
+2f01357c-1488-49ca-b908-19dad5169128,6c199527-227f-4665-87e3-44aa659de8ac,Latex,Hives,moderate
+369bf6f4-8223-424a-93ab-af58b13b5f52,6c199527-227f-4665-87e3-44aa659de8ac,Aspirin,Anaphylaxis,severe
+80014862-bc61-415a-96a8-d2bb9f2e5acf,0337c065-6893-4433-84c9-ea1616bd9e40,Peanuts,Hives,mild
+e39fbf30-53c5-4737-aee8-d58ca3bafada,f4544002-e88b-4f8b-8dfb-df9effa30d9d,Milk,Hives,mild
+77a5ffe0-e10b-4e9f-901c-456b5f0a0f44,f4544002-e88b-4f8b-8dfb-df9effa30d9d,Eggs,Hives,mild
+45cbff64-23cf-4284-b442-81d8c6bbdc0a,8e1cd096-9cc1-4ad7-ae82-80d47935a50e,Latex,Rash,severe
+bed9fe76-4014-4c7b-9e5a-2e3ac726999f,c4a13e72-09a2-4f2b-9de2-77e209b24dfa,Peanuts,Vomiting,severe
+a47e063f-15fd-4d52-b1da-b609ad190f97,c4a13e72-09a2-4f2b-9de2-77e209b24dfa,Milk,Vomiting,moderate
+0bb00106-6dcd-4730-aa39-c1f65bb5d400,9d2e0d38-80b0-4fef-b89e-6a8b7998112b,Bee venom,Swelling,moderate
+6e4b0415-dd35-494f-babc-317b51ee6a3d,9d2e0d38-80b0-4fef-b89e-6a8b7998112b,Eggs,Hives,mild
+cb982c53-cbe8-4f45-be6e-ceea2e0b3811,8d8c8593-97fb-4195-b41c-8bb549e1fea5,Milk,Swelling,severe
+98740230-4a8d-4895-b71f-dd9dafe7bdbf,2a7ea07a-82e5-47eb-85b7-9cb0d1664ca2,Eggs,Swelling,moderate
+d8c336cb-a25e-442f-88a8-5f64e9c20db6,6d83ebc4-8c28-46d6-850d-79230ee99f4b,Aspirin,Vomiting,moderate
+e7a7c037-c814-40a0-ae7f-729a784efe3a,6d83ebc4-8c28-46d6-850d-79230ee99f4b,Bee venom,Hives,mild
+a49d26d9-41c5-4482-a8a4-123c4cc6f99c,df092ae8-fafb-4f0f-9c2f-842fe41898ea,Penicillin,Anaphylaxis,severe
+f6eeaa8c-c81f-4253-a9ed-8958e1ff2070,f2b35f87-6b8e-42ff-ac56-876b79f7eab2,Latex,Rash,moderate
+63173a60-e232-4a32-8a56-bfb10518291a,f2b35f87-6b8e-42ff-ac56-876b79f7eab2,Penicillin,Swelling,mild
+f75c0480-4761-40e1-9c1d-7879fdf1877f,767cca28-8562-4c36-a948-1724dc09d99e,Shellfish,Swelling,severe
+de78378d-3c8b-462c-a33e-77aa7a58f4eb,b9e9b7f2-bf24-4812-83b9-f8246f91b365,Shellfish,Hives,severe
+e8e46338-cc28-4eb0-a280-5be5c890b0ab,8493380b-80cd-47f1-9c96-6d32b7d822a7,Penicillin,Vomiting,moderate
+3f954ab3-d231-46ab-b2ab-b7519c116725,59e81b9e-f80f-43d2-9344-8221b7401c0c,Shellfish,Swelling,mild
+41dcce96-c84e-450e-b835-e35041fa80ce,b7f6417d-f852-455b-a5ad-813ab851885a,Peanuts,Rash,moderate
+c2adfb6c-208b-484d-b7a9-0fbde57c0af3,b7f6417d-f852-455b-a5ad-813ab851885a,Aspirin,Nausea,severe
+26c870ba-e856-4ae1-9d06-ed70c0373cd8,f3da5364-559f-42f9-b911-202d2e8b6458,Latex,Anaphylaxis,severe
+59a983d5-f695-46e0-8b23-5f442c031db5,aa6a3836-1199-4989-bb50-d603cb03a4ab,Bee venom,Rash,severe
+656438b3-2b10-476e-bd3a-9e7df12c99dc,aa6a3836-1199-4989-bb50-d603cb03a4ab,Bee venom,Nausea,severe
+ed7d3863-85ff-4cfd-ab13-45f529eeda65,f62af853-0c09-4c80-9b64-ea8331801eae,Aspirin,Rash,moderate
+17169558-9ff2-4494-a026-9eb77244ffb8,9c690f77-4325-46f7-ac5c-fc9339b03151,Peanuts,Nausea,moderate
+2d180610-8448-48ad-b280-8f399496546d,9c690f77-4325-46f7-ac5c-fc9339b03151,Bee venom,Swelling,severe
+aeb524e0-fae0-4ea7-9d24-d62bb3ea843c,5c0d3866-2d3b-4da4-b360-c33f279a671c,Latex,Rash,severe
+256cd529-7c8c-4b35-a81a-cd2a5ef2b0fe,5c0d3866-2d3b-4da4-b360-c33f279a671c,Peanuts,Vomiting,severe
+6cdf1a1e-2ac8-4f28-bcac-b6d1082cf656,f4e5f92e-4499-47eb-9c4a-22ae567bb34b,Latex,Vomiting,mild
+12c932d4-e1ac-460e-a372-1b2f02cb5619,2b531822-7adc-442e-97c4-313b8d579a98,Shellfish,Swelling,moderate
+6e783e41-c551-4c1c-ab70-b3c8991d7c93,3ab68725-a6be-4432-b899-cfc9e1bdd528,Penicillin,Hives,severe
+288459dc-3c02-47df-a413-b58b41efba73,49b48086-0916-44a6-9831-ab723c406026,Aspirin,Vomiting,moderate
+665d1720-917f-4495-9272-8b51b08b2b78,fac611b2-f29c-4931-9e58-5116df885b9d,Milk,Anaphylaxis,mild
+beb9a34d-c01e-48c5-8f7d-324407f32c3b,fac611b2-f29c-4931-9e58-5116df885b9d,Peanuts,Anaphylaxis,mild
+6875d520-1840-4e5c-bb55-bf1c74c18f23,b8c1d1c6-19b5-460a-9727-a63d9fc2a1c8,Milk,Swelling,mild
+c0482c7f-e7ef-4f09-8a07-a5499e47ec9c,b8c1d1c6-19b5-460a-9727-a63d9fc2a1c8,Latex,Anaphylaxis,severe
+443e38cd-e0a7-4db4-920f-0b5fd09ab812,bfc81ed9-8101-4032-9ca4-92b28c1979ff,Shellfish,Anaphylaxis,severe
+3f8e10a9-8e4c-4285-a56f-9e63ac9a7061,bfc81ed9-8101-4032-9ca4-92b28c1979ff,Peanuts,Swelling,mild
+b5f7fe71-8630-48d6-a172-6511bbff5c2f,c8921f21-7cca-4af4-9c63-82285319ccdc,Penicillin,Hives,moderate
+a21cbed7-e801-4830-bb79-1c7af7722c7c,c8921f21-7cca-4af4-9c63-82285319ccdc,Aspirin,Vomiting,severe
+3dc6371b-3074-47a1-9eac-39558f8ab758,53a7f3cb-9983-49b6-8159-532f637106ac,Eggs,Rash,mild
+92deb390-cc9d-4d93-b1ac-6dcd243e84dc,53a7f3cb-9983-49b6-8159-532f637106ac,Shellfish,Anaphylaxis,moderate
+05e4bcc4-3fd1-4b7d-8cf0-f2f0c69746b7,bc1201cf-8c18-49d4-a71a-71e4548f4a96,Penicillin,Nausea,mild
+499c34ca-ea66-49d2-83aa-77a144c66f0b,119f36ab-fbc5-451f-b38c-af6dd4758952,Eggs,Nausea,mild
+690b61c0-4dda-46ee-a42d-c6a304217f10,119f36ab-fbc5-451f-b38c-af6dd4758952,Shellfish,Nausea,mild
+c62ffbcf-6517-4a62-8c26-c4971f359322,4a826f58-5051-4149-b50e-6f7ae62763ed,Penicillin,Nausea,severe
+00b44627-9e71-4c5c-af79-9be2595e3ab0,4a826f58-5051-4149-b50e-6f7ae62763ed,Milk,Vomiting,severe
+91ce6074-133d-406f-8b20-1110cef0f6f1,d4e0dbdb-a5da-49a0-a0c3-bbe3e4f250e9,Peanuts,Vomiting,mild
+5283dfe3-0733-48e3-a4c1-14f53cdb32ae,d4e0dbdb-a5da-49a0-a0c3-bbe3e4f250e9,Shellfish,Nausea,severe
+f8dc6fba-115a-4ae2-a382-710728a77034,d3a0caa8-1894-47df-831b-725d789fa05b,Milk,Rash,severe
+ec11222e-688f-4e41-802e-6afb337da94a,d3a0caa8-1894-47df-831b-725d789fa05b,Penicillin,Vomiting,mild
+988e2b61-a858-4486-a584-ddc98d31c7ca,8f03b539-9869-4769-a9d0-3ae8957eb163,Aspirin,Hives,severe
+289df8db-d757-49ca-a139-022a935b9b54,b0ea7190-e75b-4329-83c7-5ec80427fe98,Bee venom,Anaphylaxis,severe
+da6b3f6e-66d0-4a90-b6d1-8fa52af8b4d6,434d4981-5e8b-4ae1-946d-ec69a1de16c8,Penicillin,Hives,mild
+77d211d8-416b-44d8-ae25-46564a7162c4,434d4981-5e8b-4ae1-946d-ec69a1de16c8,Shellfish,Anaphylaxis,moderate
+6e28162d-5a19-4c8a-b162-03320d670df4,db1eb362-d776-4b9e-a346-1280c94bcfcb,Shellfish,Anaphylaxis,severe
+c377cb30-82d4-4838-94da-3f9147e489ed,c228261f-6a17-4737-89cb-1da7e1b9c61c,Shellfish,Anaphylaxis,severe
+debef374-ddd0-4ad5-93ee-7b3095ddd486,c228261f-6a17-4737-89cb-1da7e1b9c61c,Milk,Nausea,mild
+b438c135-80ad-4791-9140-8ed56a62f06c,b408f6af-31a2-4de7-928a-dba2bef9f50a,Latex,Rash,severe
+ce439c8f-9b7c-4dff-8f86-63e2b01e3abd,b408f6af-31a2-4de7-928a-dba2bef9f50a,Latex,Swelling,severe
+72e764e3-ca1d-42f2-a90a-d5feef7ba1b4,69aa1d82-6d02-4588-a299-2000a9dae123,Peanuts,Rash,severe
+3eb98a9b-2f4f-431d-aa58-e76bb9095a49,839ecb3b-9637-44d6-b5ed-5e00be5f56ed,Peanuts,Anaphylaxis,mild
+f121020d-0037-4351-aff6-8613312bbd80,839ecb3b-9637-44d6-b5ed-5e00be5f56ed,Eggs,Rash,mild
+33b02d75-ae85-4be4-afe7-2fdd1d5bd62d,cddabeae-17e8-4f24-8940-ca2211455753,Shellfish,Nausea,moderate
+241c3acd-20f6-4bbf-8517-fedf65e88603,5e259852-af78-4cac-b6a2-4867e035a5cc,Milk,Nausea,severe
+24cf344c-b065-4aee-a7fc-69c8e70b49e0,5e259852-af78-4cac-b6a2-4867e035a5cc,Penicillin,Vomiting,moderate
+99980a72-b591-4e84-9ec0-b20f71f25180,bd61af1d-4e16-479f-a862-836a8c50343f,Penicillin,Anaphylaxis,severe
+a1337a6c-5a03-4e99-8e1f-7b7cd3d9aced,1b4afa4f-7a64-494e-a7ca-4114f98c39db,Aspirin,Nausea,moderate
+5c9ee0bb-d79e-4401-8c34-a55882377a7c,ad422da5-5620-44cf-8cc8-1ee735a2883e,Eggs,Nausea,severe
+4e6cf346-13c0-40fa-8d4e-f45f2a38efd6,0e76c2f8-0841-4809-b46d-b3df7f944b6e,Penicillin,Swelling,moderate
+76a37f6a-e0b2-4c4b-bc14-890c0de6dd72,84586a97-0371-4d83-a8fc-d5d6c97da78c,Milk,Nausea,mild
+eb1c020d-b65b-4f54-a7d8-0cf16dc59051,a26072ae-d196-419e-a3ca-000dcd76f468,Bee venom,Rash,mild
+96f9e175-28cc-46de-9b25-2855f8b9241f,3746be67-5a5e-405c-913c-af67920ca3f2,Latex,Hives,moderate
+0e9bf09c-b22a-4b1f-89ea-a50141f1f391,e8b97238-2cb7-4e75-85bc-1fc72cf15119,Shellfish,Vomiting,severe
+669fe979-fbf4-44ba-a025-c16fa677d62a,00bed430-d99e-4904-9758-244eced9b0ef,Penicillin,Rash,mild
+d7c825b4-7e0d-40b0-a259-2f031cf986ba,00bed430-d99e-4904-9758-244eced9b0ef,Latex,Rash,severe
+76141925-1c5c-43b5-a07a-c3ef255a648b,7672c5f5-b4f0-40cb-a6f0-d7c729c767d6,Aspirin,Swelling,mild
+6b275917-ce5c-4142-b031-490228cd5240,9a3765b7-7f46-4095-a78f-85885a43c7d8,Milk,Vomiting,mild
+808be356-529b-406b-a8a4-5b205cfe3a1d,9a3765b7-7f46-4095-a78f-85885a43c7d8,Aspirin,Swelling,moderate
+4a51dbc0-7c68-4720-baba-910f850797d4,46f81f50-25fa-43ec-a5f9-79554670e80f,Bee venom,Nausea,moderate
+9823d3c1-40dd-4c50-b5f8-69dd878dc517,7431c0e1-e37d-4faf-b596-155c21d36f77,Peanuts,Rash,moderate
+bfb5a3ba-9d52-40c6-a14c-c28ac5cf8068,a502c013-aee5-4af6-b1e0-477345c79230,Eggs,Rash,moderate
+4d4aacb1-b108-46e7-abd2-8f6da2ef0952,a502c013-aee5-4af6-b1e0-477345c79230,Shellfish,Rash,mild
+edeceb7c-8679-4fb9-8ec1-2cf33ca0d859,c3aca6f0-bf31-4b7c-8b8e-9e90e9ce74fb,Latex,Hives,severe
+f6fe71e4-bd6a-43c9-b8ea-fec2e9b88208,bd0e6e48-16a6-47a4-8b26-7bde9a8daa61,Milk,Rash,moderate
+9dfbbd89-f71b-4989-b959-c51a4426971e,51716440-011e-4ae4-b2e9-36a28c5ea485,Bee venom,Nausea,moderate
+90ca8f55-9c77-49c7-8992-5a58c8c32d00,bbab7edc-6c70-457b-846e-1fb391b3360e,Peanuts,Nausea,mild
+74b7a975-c3d3-4775-af88-ed1c6f7d70fe,71e11d05-79a8-429d-8b5b-63b1269da5e0,Eggs,Rash,mild
+1f0ccd1e-199c-44ae-896b-a716eafece40,add7b9e6-3add-4b69-bbe0-56167d323edb,Peanuts,Swelling,mild
+888e8089-2100-47d8-96d1-08623d7b3515,add7b9e6-3add-4b69-bbe0-56167d323edb,Peanuts,Anaphylaxis,mild
+611a69df-7122-4881-9b9c-7e5c61370c2e,a7403620-5187-4688-936c-b11b34a479d0,Latex,Vomiting,severe
+47fb9415-342c-442f-8684-4b4ff41ebdcc,a7403620-5187-4688-936c-b11b34a479d0,Aspirin,Anaphylaxis,mild
+2d2297f2-671e-4c13-8bbc-e6b1a5c33fe6,e4955112-5b2f-42f5-9a47-56a075c479fa,Penicillin,Rash,mild
+bb309ff7-a3f1-40e6-b7b7-da561ade1408,e5067d66-5cf4-4dda-ac47-f5648f6524ef,Latex,Rash,moderate
+cc5b8f95-e39c-4896-8263-5ff53b77274a,96f65633-b759-494f-9c33-81106b4437c7,Milk,Vomiting,mild
+332046e9-ed04-43f5-ba62-6d611a6fe660,45ee0540-b0a5-45d3-91dc-e35adaf97965,Penicillin,Swelling,moderate
+3b64afb8-b419-4fc1-ab58-09da1e03d283,5fff6fba-1298-4e67-8eac-1bb69c69d93c,Milk,Hives,moderate
+9de512cd-60c1-42db-8e42-2ae52a00bbb8,b1881899-a789-4aec-8c64-84690d76e770,Bee venom,Swelling,mild
+580fd92b-0415-4c8c-9848-27eced1686f2,65d4e024-45cf-48b5-ba5d-7f2e15fa4b28,Milk,Anaphylaxis,severe
+555f5adc-0849-4643-b96c-84152e6cb5d6,bf79d56f-cbaf-4836-93c0-edf449a0433c,Milk,Swelling,mild
+109c1fb2-257b-4699-9918-d700583192b8,4dcaee49-cb1b-4e5a-b549-f33ca71cafd3,Eggs,Anaphylaxis,moderate
+2a320d6c-e354-4179-8f48-f104ff3d9e5c,651298e7-456b-4579-b149-03adc3f3d916,Aspirin,Nausea,severe
+f4c38e7f-d79e-42b8-8567-16a4c67d3227,651298e7-456b-4579-b149-03adc3f3d916,Aspirin,Nausea,mild
+ae5827ac-6696-4cff-a029-36e5f3fe3306,6729d5ad-e988-4965-accc-5a0be4368fd0,Aspirin,Nausea,mild
+a380d005-0251-4102-8ba1-cab77bc227d8,6729d5ad-e988-4965-accc-5a0be4368fd0,Peanuts,Anaphylaxis,mild
+1b5efb96-753c-45a6-b081-f10d7e070d99,f3c3eef2-eb0a-47b0-a3ee-bbd08e2e744a,Bee venom,Rash,mild
+9730c04b-6f86-4e67-bbbc-01406c4f7060,f3c3eef2-eb0a-47b0-a3ee-bbd08e2e744a,Shellfish,Anaphylaxis,mild
+ef83b0a1-0e20-406c-9438-e9633543b0ff,2b043fd9-5daf-49a0-8394-859dd9bb63cd,Latex,Hives,mild
+e58ec8e2-5a9b-44d4-a462-8ad62f932ecd,9cbbd8fa-8c4f-445f-adf1-636108f1519f,Shellfish,Hives,mild
+984bd13c-07a8-484d-9b8b-2709107b7907,df986c6f-f078-4c0c-90c4-911b3684df51,Penicillin,Rash,severe
+abd97f9d-ef39-4833-acd6-287dde6021e6,b9292852-fdc7-4966-9f4c-78825505235e,Milk,Rash,severe
+90b3e5f2-02fc-4d1e-ab17-fbacaa763725,b9292852-fdc7-4966-9f4c-78825505235e,Penicillin,Hives,severe
+908d204e-d32d-439c-8e60-21db4983a74b,e2756cc5-3de4-4323-a764-b3d26ce52e9d,Eggs,Anaphylaxis,mild
+607d18ad-d691-476d-887b-c03237c5e9a9,e2756cc5-3de4-4323-a764-b3d26ce52e9d,Peanuts,Nausea,moderate
+de6f0141-6f3f-4604-a071-e230b291d343,6ab80d89-8aca-4c1b-a780-4569785ac0da,Latex,Vomiting,moderate
+360c7c87-55bb-4731-b77e-861f963ac257,6ab80d89-8aca-4c1b-a780-4569785ac0da,Peanuts,Nausea,mild
+4497e859-92bf-41aa-aceb-ecd868d97d53,18db1142-fb9f-427b-8144-b90ddc642bb4,Milk,Vomiting,mild
+af5be9fb-92d8-48c0-90e1-3403efc64642,3f2066fe-b1d9-43de-9f74-228fbef94259,Aspirin,Nausea,mild
+c9c97a99-d16f-4122-9293-892b21f3ad8b,9ce95e94-66f7-46ed-8053-23808f6bfecd,Shellfish,Vomiting,mild
+0e538f18-3f85-4101-9939-99c63d86e66c,9ce95e94-66f7-46ed-8053-23808f6bfecd,Aspirin,Rash,mild
+815affc8-511d-4a82-b025-afe4810bbe0c,c4fa8e68-63ae-4aa8-a437-149fd9c9b6ed,Latex,Vomiting,severe
+7a3c1b50-e929-4129-b4fd-bb99e5bb54a2,5458e2b9-c71a-4e1f-a8d6-bca90f2d1dc5,Peanuts,Nausea,moderate
+5c3a83ff-360e-4ed2-beb0-3cfbd09cfce6,5458e2b9-c71a-4e1f-a8d6-bca90f2d1dc5,Penicillin,Swelling,severe
+118ad04e-86df-45c4-bc31-a2f064783f6d,565eff7c-9946-408e-9804-8c07e35a6c33,Latex,Nausea,moderate
+f0bc54c5-f553-40ea-9101-ceb6adb52879,7dad1751-c348-4db1-9158-c0d5b4f7cf53,Latex,Nausea,moderate
+8e9bf10b-37a0-4890-8051-3a450cd7b2b7,ff915254-38f4-46c3-8513-93979e8a65de,Milk,Nausea,severe
+da305c27-8e07-4206-b27a-71a6dea40c5d,ff915254-38f4-46c3-8513-93979e8a65de,Milk,Rash,mild
+fe7c6934-d468-4a80-92e7-5beada150399,1d4550d3-ae89-43f7-a26c-9a4fdc649dd7,Latex,Hives,mild
+49fd77ad-e99f-4a7f-abc4-34ff15c9b95e,1d4550d3-ae89-43f7-a26c-9a4fdc649dd7,Shellfish,Rash,mild
+3bfb2a0d-117c-4f06-bbde-a55e356eaaee,7fcabc54-bf93-4935-8b7a-4d1ca488226b,Aspirin,Hives,severe
+b48d76d7-ab25-4937-80b5-b707fc34fd25,7fcabc54-bf93-4935-8b7a-4d1ca488226b,Penicillin,Nausea,severe
+84d92665-f81b-4677-8b08-2b25fa370949,8c1e99e0-dbb8-4947-835d-6e5a72d977f1,Penicillin,Anaphylaxis,mild
+f6237fda-ef44-4c0b-8d9c-2e8ecf012a47,9d4d738b-4655-4529-abe1-f15ba79b776f,Bee venom,Rash,mild
+f121963f-33e2-4def-8c50-217ecf2da508,443a2d54-5779-456d-ba4c-e303943daa4b,Aspirin,Nausea,severe
+058c1420-2c03-44ff-8cf2-5d275f300840,0c178eee-6270-4da0-b727-843370d31647,Latex,Anaphylaxis,severe
+70263d8f-062e-4041-a1c9-28046dbbc6e0,05d31cdc-8d5f-465e-a63b-34b01fad39a9,Peanuts,Vomiting,moderate
+220015b8-50eb-44d4-9f5d-a8ce3a3b95aa,05d31cdc-8d5f-465e-a63b-34b01fad39a9,Aspirin,Vomiting,mild
+a30c94fe-8311-4954-89ae-896745ed2fb1,9b103900-2276-4a21-bd74-0405d5de7220,Peanuts,Hives,mild
+9651b06b-f19c-43d8-84b5-e61338fb6f92,9b103900-2276-4a21-bd74-0405d5de7220,Latex,Anaphylaxis,severe
+efd3b017-de8a-476c-b093-8e5cdf368ce5,cc6b69e5-20ea-4e91-b2b3-0bfe2bc4ec39,Milk,Nausea,moderate
+715bda78-43b8-488c-a1be-00ca9b942ddf,ad442105-4062-46cd-897e-903dddd02c85,Peanuts,Anaphylaxis,severe
+98df4a0c-77e5-4667-a94b-9e2e771d5beb,27d5c0da-07ea-483f-b9f7-b8b1394984f2,Aspirin,Anaphylaxis,moderate
+2ae6cf1b-5fd7-4dda-b301-c2ccb50edfc3,958dcb4d-2f60-4ef7-affe-f0ad3b956871,Penicillin,Anaphylaxis,mild
+2330d095-3cf0-462e-8a4c-21b5aabd9eb2,f90f234c-faa9-4e73-9528-69182db23cc3,Aspirin,Hives,moderate
+a7294278-44d9-49fb-abe0-f3ec0719f621,8e66521b-0d7a-475e-bfbe-3fd69081b6db,Shellfish,Anaphylaxis,mild
+62d853b5-c4f3-4784-a833-ed9ae947856c,9526dff4-3ea0-4005-9492-9e7d5c453d03,Latex,Hives,severe
+4daab9dd-40cd-4fd3-99ce-3cf76403592f,b3d5c77d-c15d-4cfb-b2c7-322a32e7ef4c,Bee venom,Vomiting,mild
+43350954-eb61-4195-93ad-1c1151f2c30c,b3d5c77d-c15d-4cfb-b2c7-322a32e7ef4c,Bee venom,Hives,severe
+4e88df79-6eac-4824-af6c-89ba9cf2422e,47f5d3ea-ce5e-4a5f-8632-38d2ef236d8b,Latex,Hives,severe
+9f91acd2-82bd-4968-b622-aab28fb92400,47f5d3ea-ce5e-4a5f-8632-38d2ef236d8b,Shellfish,Vomiting,severe
+8a9335c4-5c27-4b12-960b-e260c91988a1,d4730cef-2ebc-453d-b741-850fee63205d,Peanuts,Nausea,moderate
+879083dc-3758-4aba-a514-dc882f292945,6128927f-0fa3-433d-9614-44d0d9698735,Aspirin,Swelling,severe
+607da23f-c4ef-4e54-8462-75cd4fe18d7e,e84fc9ef-f697-445b-a02e-76b10f0746a2,Eggs,Rash,severe
+a2dce5ad-9251-4d98-96e1-53ee5ece8e4c,e84fc9ef-f697-445b-a02e-76b10f0746a2,Eggs,Anaphylaxis,severe
+328b19b8-65ff-40ac-8a01-9eff86326739,5dccc1dc-6a8f-4552-837b-70004ea2adc4,Aspirin,Nausea,mild
+f0f31d4d-1ea2-4181-adad-ed19796f668e,5dccc1dc-6a8f-4552-837b-70004ea2adc4,Bee venom,Rash,mild
+18ba889b-7c60-47f2-9805-be5d7fec42f6,c5e84003-f618-4398-a271-144c46ac38d2,Penicillin,Vomiting,mild
+eb08e1c1-725d-445d-806e-f5797ecf9382,c5e84003-f618-4398-a271-144c46ac38d2,Milk,Anaphylaxis,severe
+92ac9e7d-5cfb-47a6-aeea-c1380d4eff5d,8b73f180-1f40-41c6-a9f2-a5fb1907c039,Latex,Swelling,moderate
+c549fcaf-5608-44a3-8a03-5d989beec508,eeafcfc7-02cf-4e7f-b806-f643935e611e,Penicillin,Nausea,moderate
+0dbb02d6-54f0-4335-af84-e4382c3f529e,eeafcfc7-02cf-4e7f-b806-f643935e611e,Peanuts,Vomiting,moderate
+ef796834-9377-4e5b-9e48-e042d51194b6,2835d2b7-da58-41b8-9a47-4e107608e042,Milk,Hives,severe
+dc90b88b-ca72-47ef-a5df-ee1d74703421,2835d2b7-da58-41b8-9a47-4e107608e042,Shellfish,Hives,mild
+fdc3a401-c18e-47ff-a968-3ecc998ab7ca,366830d5-223f-4f82-be00-dbfba43b9ca0,Shellfish,Nausea,mild
+02705595-520c-4ff7-b458-123f88c9a131,8e8cf725-19f8-4740-92cb-1f53c0582162,Shellfish,Rash,severe
+00293437-a714-4d42-b3e9-44f098d29071,8e8cf725-19f8-4740-92cb-1f53c0582162,Shellfish,Hives,severe
+bb09d078-92eb-4320-b598-230df26cc331,1842229b-afc5-450e-90bf-127aaf28faf8,Shellfish,Nausea,moderate
+8d877e65-980a-4447-accb-d79acd972e42,1842229b-afc5-450e-90bf-127aaf28faf8,Penicillin,Rash,mild
+9df7cbb1-ecf6-498a-a796-0e64e0c8d284,818aff83-3454-46df-8ae4-2c2376f0f148,Latex,Nausea,moderate
+2f33bcf8-70b2-4cec-8e2e-45cd7a18e7ad,125a5b1c-8ee7-471e-8881-73058004c90e,Milk,Vomiting,moderate
+a283fcf5-d907-4dbf-b4a5-33679d799067,125a5b1c-8ee7-471e-8881-73058004c90e,Shellfish,Nausea,mild
+aaf7d3d7-64ea-42ff-8ae2-a8b9aef66a24,bf689b4e-15e4-46a0-acb2-9e676b226722,Shellfish,Nausea,mild
+f05aa626-5f1b-405d-ae8d-f2fd1a89541d,bf689b4e-15e4-46a0-acb2-9e676b226722,Milk,Rash,severe
+437e7273-c533-40b3-9e1a-4817cc7f862b,d064554c-093f-446a-912d-aae57073372e,Milk,Anaphylaxis,severe
+22fd1a3e-4e0e-4e36-ba92-093485011451,d064554c-093f-446a-912d-aae57073372e,Shellfish,Anaphylaxis,mild
+5e50118b-1e44-478f-abad-45bfe4e8a753,a435b875-5574-4f39-8961-348f37f49993,Eggs,Hives,mild
+999ab2ba-ed28-4ba8-8a86-3e9315265518,a435b875-5574-4f39-8961-348f37f49993,Bee venom,Anaphylaxis,moderate
+06477543-deba-4b58-820b-e10235fbfb8e,120b0e54-0a92-44c9-9ba0-f0fbb5803513,Latex,Vomiting,mild
+c1f94154-baf4-4f5c-8b7f-9a45915638d0,b86f7ee7-1499-4da9-a886-6763882d5f70,Shellfish,Vomiting,mild
+e749c7fc-2f10-4b78-a700-6e295a60990a,3b77a1c8-32c9-43f2-a99e-126f2f542f4f,Penicillin,Anaphylaxis,mild
+0ddcb264-576e-4f7f-a946-00961fa6b093,3b77a1c8-32c9-43f2-a99e-126f2f542f4f,Penicillin,Nausea,severe
+a7d107e3-f006-468b-a52e-bb66428abc92,1cb15d7e-d3dc-4785-b433-3d5e87031017,Aspirin,Nausea,moderate
+fa4f8358-1ca9-4720-ac6f-2010d05f97b7,6acf253a-ab6b-476f-9416-268873524f61,Penicillin,Anaphylaxis,severe
+b4db4025-d794-445d-8716-da981e6fe06f,4cc525d2-8829-4f3a-9b8b-3fa992a62f6e,Aspirin,Nausea,mild
+335b0f41-caf2-4fa7-94bf-ca520b1ec4e9,1c9c9fc3-2d55-4614-8c95-632a5de8ff65,Shellfish,Rash,mild
+e1fde858-2143-424b-8eed-d0b7f21212ba,76b1f959-00a2-4f5a-9755-b6e9c5cd8915,Shellfish,Hives,moderate
+4e5aaad5-5692-4198-9607-b020139dfaa7,76b1f959-00a2-4f5a-9755-b6e9c5cd8915,Peanuts,Anaphylaxis,severe
+c66e288f-52ff-4835-9c2e-2c47561e46f2,75dcad32-1cdc-4488-b9f1-42ea7585b90d,Peanuts,Swelling,severe
+eb045928-d0a2-4ae5-8f52-aed19ce74ce4,75dcad32-1cdc-4488-b9f1-42ea7585b90d,Aspirin,Hives,severe
+3c58ab96-d1d3-40fe-a393-d560f2aa2d89,8871349c-295f-45b7-8c79-5ccc0cfcb6ab,Shellfish,Hives,severe
+a0d01b9d-9d75-44fd-bf9a-6911ebeb204a,8871349c-295f-45b7-8c79-5ccc0cfcb6ab,Aspirin,Swelling,severe
+d659cb47-7c09-4b8d-b959-6311959ebd44,0a65a5d2-29f4-4739-80a7-8f38b1f701df,Shellfish,Rash,moderate
+ccf576d7-1bf4-454b-baf5-026b98efe488,0a65a5d2-29f4-4739-80a7-8f38b1f701df,Penicillin,Nausea,mild
+e81f1cf2-a81b-451b-8407-12c30d682b6d,041e9792-d593-487a-8682-5444b4ad2bc7,Penicillin,Nausea,moderate
+f94eb066-a33d-46b1-8d3d-4d077244adae,041e9792-d593-487a-8682-5444b4ad2bc7,Milk,Rash,severe
+80102636-5d68-4d82-b033-d6a9a2a4a5b7,23bf35a4-13fd-47af-a293-562dec1d7c4b,Shellfish,Anaphylaxis,mild
+12ab5a96-f215-449b-a21a-072e756d2b49,23bf35a4-13fd-47af-a293-562dec1d7c4b,Shellfish,Hives,moderate
+fbd499fb-fa28-4fda-b25a-7d8ae6333f5b,25bd143c-5da3-4a38-9397-981af583469d,Aspirin,Anaphylaxis,mild
+bff58fd1-3d6e-43db-988f-1ba9450ff989,9f6579b6-053f-446b-8956-c7937c5f1b47,Bee venom,Anaphylaxis,moderate
+42af3c35-a431-4659-9f42-ef3478436dce,5d823245-5d8e-46d0-af0c-348db8cbed88,Peanuts,Anaphylaxis,severe
+143e1d6a-2f83-4d1f-96ba-fdffa3b28be4,e216159c-49c0-478e-ba55-01f8af482240,Bee venom,Nausea,mild
+9cbc8e3f-2282-4585-abc8-dfd45e5417dd,e216159c-49c0-478e-ba55-01f8af482240,Aspirin,Swelling,mild
+b84d5053-d2a7-4417-886e-fdf4a275cace,a510ecff-b1c3-48f9-b733-81f6fc8af9ce,Milk,Hives,severe
+5f09adbf-2660-4ad1-a59e-d675d1783484,5a792998-826a-4085-8cd8-bfd2aa3af66b,Peanuts,Rash,severe
+1304f9e3-779e-441d-8457-6c9c0063f0b1,5a792998-826a-4085-8cd8-bfd2aa3af66b,Peanuts,Rash,severe
+59e83927-9699-4b3a-902e-642f51786959,5f7f2953-c9d3-451a-afc0-904c37916703,Latex,Swelling,severe
+ecb23f08-c181-46f6-ad30-406348c9aca7,5f7f2953-c9d3-451a-afc0-904c37916703,Bee venom,Vomiting,moderate
+53e12fc6-4f52-41b6-a5fa-18599e2723d7,a79d0357-ce93-4eee-bf55-dd74a91d20e6,Eggs,Swelling,mild
+2fe98923-bc50-473a-b142-8e046063ebd7,a79d0357-ce93-4eee-bf55-dd74a91d20e6,Penicillin,Anaphylaxis,mild
+09cf5b38-fec3-44ee-a6d0-c805ec94be75,f6d477e5-e87b-4a71-a551-3f586a2d822b,Bee venom,Swelling,moderate
+5353ed4d-7871-4ee3-9a04-2bb5922d6a77,f6d477e5-e87b-4a71-a551-3f586a2d822b,Eggs,Rash,severe
+b432d651-1e50-4d3c-84cd-ce7bc1b5a387,dca432ea-a4be-4c6a-af3c-04b3cee8e0b7,Penicillin,Anaphylaxis,mild
+b68164cc-61da-4e3f-a071-1618f40a6e90,dca432ea-a4be-4c6a-af3c-04b3cee8e0b7,Aspirin,Nausea,moderate
+a39cfccf-70d0-4c3c-9b6c-d2ef7fbe4a82,e360f116-986d-4bfd-b20f-4c5e2e0e2a5a,Latex,Nausea,moderate
+ba3d429c-ee30-4179-834b-82b0e00fa420,68aa3f7e-f696-432e-b5e5-fc1e82bf63ca,Milk,Hives,mild
+129b8cd5-3b77-46c6-9201-a68f3ebff3dd,54086295-7252-403b-afcd-5e9cf91459d9,Aspirin,Rash,severe
+3b1cb15b-34d0-4b24-8d2e-1af499aae743,54086295-7252-403b-afcd-5e9cf91459d9,Shellfish,Rash,moderate
+4d98b34e-2741-4e36-b7fb-5700bf3292d2,d21d9ea0-35ab-46c2-a44f-2660a641eb45,Penicillin,Vomiting,mild
+38e17ed1-a100-4999-8e2f-d4a97473891a,d21d9ea0-35ab-46c2-a44f-2660a641eb45,Peanuts,Swelling,severe
+27de79fb-389b-4d09-9d84-6b641f0d3371,e370941a-1e27-494b-bea3-32a137b70c9c,Shellfish,Swelling,moderate
+5b1b3d9f-810d-4da5-805e-b7e3fd359625,e0fc6b07-a24e-40e8-90ac-7b890ae30c5f,Shellfish,Anaphylaxis,mild
+10c050c8-f34c-4129-abc9-c4c809bdeba7,76d06d78-3322-4e4a-b6af-b8c79ac73947,Shellfish,Vomiting,severe
+926ac6ea-8cbe-421e-b0e3-aa49f37eb8f4,42ae1d35-dd70-4860-aec1-ac73a85d898b,Shellfish,Vomiting,severe
+1c4ad695-436e-4029-bdf8-418fa4cba056,5bb3e5ce-2b3b-4627-b491-7fda05b7def6,Peanuts,Hives,moderate
+871ce03c-fa7c-4f0c-85f0-ed2839b517a1,49c8c1d7-2757-44be-bf15-c25593a21519,Penicillin,Rash,mild
+a99527a3-afac-4ca2-b47f-390a9aed7cd1,767e5085-8a09-4f9d-9d1b-159de31ab611,Bee venom,Swelling,severe
+876ce885-0ef2-4ae3-b0a7-7858a3bb9380,4fbee9fe-6c5e-44e9-bcc1-b94bfbd06aeb,Milk,Hives,mild
+1c461cec-85d2-4a23-856f-c2755f45a820,fbf1752d-a746-4634-a826-3a05e519a780,Eggs,Vomiting,moderate
+5c6fbbcd-40de-457a-9699-5f5a24c31df5,365b088d-0949-4a37-8359-dfde13ba7b29,Shellfish,Anaphylaxis,moderate
+632f0f2d-6573-4f75-9398-b4dfab5828b3,365b088d-0949-4a37-8359-dfde13ba7b29,Bee venom,Hives,mild
+d27f6888-0fc7-48ff-8e13-e88dcc614832,8cbf6b69-ab64-4b24-90aa-cc7a2f105ea6,Eggs,Nausea,severe
+a0f2cec7-46d0-4abf-a1d3-39d9d35f7d1e,8cbf6b69-ab64-4b24-90aa-cc7a2f105ea6,Eggs,Anaphylaxis,moderate
+69b9f784-30a0-4107-afd2-5682eb4cca91,1cb26c54-10f1-4340-866c-f9545c4a1907,Shellfish,Swelling,severe
+57cb5ced-7a4d-4ef2-8e25-206fa888bfca,c84724f5-040a-49bd-ad40-17d849bf8fe2,Milk,Swelling,severe
+fcccef37-8ec5-4d16-ad3c-70abe09bc235,c84724f5-040a-49bd-ad40-17d849bf8fe2,Peanuts,Hives,severe
+6fce5ad7-a401-404e-83ed-ed8e8c6f319c,85999713-0d40-461b-9795-0329fcb42544,Eggs,Rash,mild
+4436d1d5-d939-4df2-ae7b-835bb0b21208,ba92909c-a559-4db9-9b83-41b00d1fc861,Milk,Rash,mild
+1d99dea0-9418-45e7-bebd-4726fbf54a7e,c4d9c0b0-bfcc-41b4-bb27-d8b5b7fd38a3,Aspirin,Anaphylaxis,mild
+9bdaae81-e4ef-437a-b3b9-02d4741308e1,792c7c77-038d-4e7f-bfd7-83f875b039a4,Latex,Hives,severe
+be41e37f-6319-4456-b87f-4de7f251fcc8,792c7c77-038d-4e7f-bfd7-83f875b039a4,Shellfish,Hives,moderate
+88467ade-518f-4732-9cb0-63b2d5fbc124,8d8df5c6-2887-473d-a6df-e8d3dcc811bb,Penicillin,Anaphylaxis,severe
+954a7829-09e0-4876-b2b0-7f6760a4cc0b,2bee88bf-5cbf-4fb2-9471-e29554601687,Milk,Rash,moderate
+4a66658a-748e-45b0-ba77-0ce8a0e2e4b0,2bee88bf-5cbf-4fb2-9471-e29554601687,Bee venom,Anaphylaxis,mild
+7ef3abd1-49cc-4c08-a7a5-f837345900a4,1d470281-23fd-4165-b195-6a8ac61a98aa,Latex,Rash,moderate
+738adb35-0b55-492a-88c0-31b08dcdae66,1d470281-23fd-4165-b195-6a8ac61a98aa,Latex,Rash,severe
+00e9a690-1d5f-43c5-ba79-103e649b94a0,727ea9bc-8b10-4b9a-9e45-f99bde6a3d21,Aspirin,Swelling,moderate
+e1ee834b-f07f-4ccf-9f98-282703e74398,727ea9bc-8b10-4b9a-9e45-f99bde6a3d21,Eggs,Swelling,moderate
+ba21fad8-f937-4cc0-87af-f37d362a4e51,772ed8c2-becb-4334-a5b6-7835bb25db56,Latex,Vomiting,moderate
+6c45b38b-9dea-4a72-b30b-1983af9ed61b,bf07a030-61b2-4b96-a4c2-c9c5331e3286,Penicillin,Nausea,severe
+f06cab63-b589-4ffa-800b-07ec4952c40e,0b427e26-4d14-46a3-9f85-5f2112bcb530,Aspirin,Nausea,moderate
+da20e840-b66e-49fe-b423-b62018dcaa1b,0b427e26-4d14-46a3-9f85-5f2112bcb530,Eggs,Rash,severe
+5a127363-38d3-477c-a971-dca065c3c8c0,3b17dd0b-90bb-431c-a073-10cbb7b80f5e,Eggs,Nausea,mild
+9846bfdf-b3f3-4e96-8d62-41796c0081f4,1bd8ca26-c5e0-4db9-99af-bf50667be1a6,Bee venom,Nausea,severe
+f6b29499-e995-44a3-a1be-49b63256bad3,1bd8ca26-c5e0-4db9-99af-bf50667be1a6,Bee venom,Nausea,severe
+801f4d2b-dcf0-40d2-9c42-64eeb95487c4,c770857a-9cf1-4edd-8582-06593760206e,Shellfish,Hives,mild
+a3c14a33-2903-49cf-85c3-3ffc385d6456,a2011667-e9a9-46c5-88ce-2de745ec450d,Eggs,Vomiting,mild
+fcd44d5b-8db8-49ad-b601-cb15c2d3cfba,a2011667-e9a9-46c5-88ce-2de745ec450d,Milk,Anaphylaxis,severe
+66c75ee5-31a8-45b5-9094-170132cbf1b8,b6208d13-4fda-46a2-8775-d93502b0bb44,Milk,Nausea,severe
+05468755-cee0-4752-84ce-d06c0e8e55d6,336b8b52-cf93-462b-adcf-66858a5abc8b,Milk,Vomiting,moderate
+100db228-f200-47fd-a159-81e272ff6330,b10608fc-4b01-41d5-b272-b84c0c3fa3bd,Latex,Vomiting,severe
+8a9b592f-bbbb-4920-9561-96ac79578936,b10608fc-4b01-41d5-b272-b84c0c3fa3bd,Milk,Rash,severe
+6d13f27f-000f-4489-917c-44137b5e4402,2730cab5-92ed-4949-bcbf-26f593efe355,Milk,Nausea,moderate
+92dcb6c9-76c3-4636-832d-782f8e21a13f,2730cab5-92ed-4949-bcbf-26f593efe355,Aspirin,Rash,severe
+a6edabb7-2124-4d2b-a597-dfb500d7993d,ce481d20-3e22-4b3d-a612-f0690437113c,Milk,Rash,severe
+aa53c3aa-e0ec-4431-845c-efcac775acdd,ce481d20-3e22-4b3d-a612-f0690437113c,Eggs,Vomiting,moderate
+9f1160a2-c516-4e8a-be17-ff2c13c72359,5b932885-5485-4a09-9e19-00d78e26f987,Peanuts,Rash,mild
+3651854b-322f-40b8-84c7-fc71f67f8001,5b932885-5485-4a09-9e19-00d78e26f987,Eggs,Rash,severe
+63eafc11-3172-463c-be64-0a84fde93b29,148ea409-c009-40be-9daf-bc163448f5ee,Aspirin,Vomiting,moderate
+8236ff3d-37ae-4a03-9869-3154cebd3626,8e1245ad-9f68-4a75-8e69-673a22cbca97,Milk,Hives,mild
+65b916c0-26c6-45d8-9059-21e979d49a7c,a8651050-4845-467b-b752-2c695de81e8d,Shellfish,Rash,severe
+51b19456-b9f4-42f4-94ad-dfecd9a04ce7,a8651050-4845-467b-b752-2c695de81e8d,Bee venom,Anaphylaxis,severe
+36e6f2a5-49ba-44b8-a45e-32d3658ec14c,f8ac6486-0852-48bf-a978-daf0819ac68c,Aspirin,Nausea,mild
+95672789-0880-4c48-88a1-5d9ac433b55d,f8ac6486-0852-48bf-a978-daf0819ac68c,Latex,Anaphylaxis,moderate
+7cdbd786-767f-43c5-827f-58140932a309,1fffcf44-69a3-4c1d-b7bf-a0e3c6408707,Eggs,Vomiting,mild
+fa2a0b0e-992d-47e3-b9a4-dc9ab16a60c7,1fffcf44-69a3-4c1d-b7bf-a0e3c6408707,Latex,Vomiting,moderate
+17575572-12fc-46bc-97c1-7bc7cbc31b2f,93fd685b-73cd-43da-bc7b-f19a4d0831d1,Latex,Vomiting,mild
+77aa1cae-1cf4-4db4-8f11-046602e22f16,93fd685b-73cd-43da-bc7b-f19a4d0831d1,Eggs,Swelling,mild
+955787f2-8484-4860-a718-c8ccc9f27d8a,83bda9de-3e5d-4ba1-badd-84f9638b2698,Shellfish,Rash,severe
+e5b89c55-9bb6-4ab4-9cb4-d068d02d8f6f,c03a8939-1f09-4156-b8fc-41893c8e1480,Penicillin,Rash,mild
+ce0ebcab-b4aa-417a-a114-7ddd69dfcc5d,c03a8939-1f09-4156-b8fc-41893c8e1480,Eggs,Vomiting,moderate
+18a7e1d2-018c-4d3f-ad91-6c62be7f0451,446fdc95-1b4d-4f59-9807-dca61acd10d3,Latex,Hives,severe
+e8189ed8-e0b3-4818-af09-0c453a26ea84,446fdc95-1b4d-4f59-9807-dca61acd10d3,Latex,Nausea,moderate
+95e05d5b-1327-4140-b65d-97be988f7d30,1ec12720-1760-4daf-afb4-ca5b04e08fad,Peanuts,Hives,mild
+545b00aa-81ae-4add-b277-4d731a10ea40,1ec12720-1760-4daf-afb4-ca5b04e08fad,Latex,Vomiting,severe
+0985bee6-76d9-4111-9759-fcfaaebded3f,6585c915-cdbf-4ffb-a83c-bdea28b4e536,Peanuts,Anaphylaxis,mild
+dff8d75a-5b23-495e-baef-a2fdb5c3e3c1,eb52763b-711a-4b28-ad8c-5aa407ab37e3,Aspirin,Rash,mild
+004a378f-d822-48a9-9af3-0ab45462a8c7,eb52763b-711a-4b28-ad8c-5aa407ab37e3,Bee venom,Hives,mild
+cb73bc97-464a-44d8-a764-d815b006feea,2ebf90c3-1b54-4d19-9693-287fdea267a8,Bee venom,Swelling,moderate
+332c7a6a-5e43-45a9-9dfa-33d71336fdb4,2ebf90c3-1b54-4d19-9693-287fdea267a8,Shellfish,Vomiting,mild
+35b112d9-d7a9-4230-8167-b5fdd807a4f7,44057b1b-0dd7-40e6-b537-4009d5736ecd,Bee venom,Vomiting,mild
+5b3ba599-d93d-401f-a259-87cf311200d9,2377930a-5bc4-4a22-8554-3134b555742e,Peanuts,Anaphylaxis,mild
+ef6076c4-c919-4afc-afba-80a97fd57bc7,2377930a-5bc4-4a22-8554-3134b555742e,Latex,Swelling,mild
+7f11864e-53a6-4db0-a190-3043ba5066bb,ddf1b43a-0a51-40ea-af78-dcf89d75e7aa,Aspirin,Swelling,moderate
+4e74fb13-5328-4a4e-a808-dbd8ff9f0354,ef736187-56dd-472e-83dd-7b8a166ef0f9,Shellfish,Anaphylaxis,mild
+b7f141fd-9650-4402-86b3-db1e707cd254,6eb50b51-e745-456f-9eed-d33d30bc631a,Milk,Anaphylaxis,moderate
+ddf2e898-b96c-4d20-bd72-c2bd7b01cbc7,6eb50b51-e745-456f-9eed-d33d30bc631a,Shellfish,Vomiting,moderate
+cd27f28a-dddd-497a-9bbd-30c28090e7cf,85b7f189-320d-4404-b6c9-a5f02c36bb4b,Peanuts,Swelling,severe
+735250ae-6e2e-4595-9b51-13fe38c15fdd,85b7f189-320d-4404-b6c9-a5f02c36bb4b,Milk,Swelling,severe
+7cc3afb6-af8a-4fa8-a42a-f02036a661f3,c1ce57b1-708a-43b6-b285-a3ceb415d3cb,Shellfish,Nausea,moderate
+b37b3ade-1806-407c-bea2-2d55e41017b3,c1ce57b1-708a-43b6-b285-a3ceb415d3cb,Eggs,Vomiting,mild
+5f47da30-801a-4959-8057-2545689707aa,31063aa9-d7b4-4c29-b3a5-720d437753c8,Peanuts,Anaphylaxis,moderate
+6ea3b5dc-cf49-4743-937e-1eb6cbd8c9b3,57e07142-2ee8-46ce-bf8b-92fd5ebb7c8f,Penicillin,Rash,severe
+a62cb24c-b957-4c25-837b-1c2de5966403,57e07142-2ee8-46ce-bf8b-92fd5ebb7c8f,Bee venom,Hives,moderate
+91ddad33-7dde-4b13-b1ff-eb88014db082,8206cccf-2e6c-4608-a087-e04a8768e83d,Shellfish,Swelling,severe
+4c2a19ba-bc62-4b4f-92a0-af9003c8a70d,8206cccf-2e6c-4608-a087-e04a8768e83d,Milk,Nausea,severe
+6a93068d-f28a-4ff9-bb8c-5305c509350c,5330381a-8a8c-4115-a64b-9042c5b017d2,Bee venom,Rash,severe
+3e9ab555-c09c-4f59-94fb-d326804307a2,13d3ff5f-8534-48e3-8636-26394b6c8d9c,Penicillin,Rash,mild
+1f160025-a6b1-47f5-9577-38e2ccceefc6,13d3ff5f-8534-48e3-8636-26394b6c8d9c,Penicillin,Rash,moderate
+454756aa-cee7-4337-9de9-beb392d37f73,103b714c-f8ab-456f-93c1-6508e17cb0a4,Bee venom,Nausea,moderate
+7d662ee5-5914-4c63-b3ec-7e64ed244cde,103b714c-f8ab-456f-93c1-6508e17cb0a4,Shellfish,Anaphylaxis,severe
+ec07b5e5-698b-4ff9-a42e-8362c95ea918,697fb07b-e0de-4015-bf45-92a6e3c313bb,Aspirin,Hives,severe
+f5db8f8e-427f-46f4-901c-00e29ccadcbf,697fb07b-e0de-4015-bf45-92a6e3c313bb,Peanuts,Vomiting,moderate
+10965816-e8d8-48cf-bf3b-2a27d4129743,cabf376c-09e4-4043-bf3b-05c5c437bdaf,Peanuts,Hives,mild
+bc7a555c-b27e-4ed3-93b1-85cf1cb56ec4,0e3a0c9c-b1e5-46c2-8611-176d94bacff4,Penicillin,Swelling,severe
+b1f400ad-ae23-4735-a132-8a12e078d204,0e3a0c9c-b1e5-46c2-8611-176d94bacff4,Milk,Hives,mild
+1d803ea1-0950-46e9-b066-0a8e6105f986,51c75957-2ac3-46f5-a779-0f742708fd7f,Bee venom,Vomiting,severe
+e5066289-a2de-4423-89ef-c803cc115911,f7f05229-9bed-4caf-8173-39605fdff499,Latex,Anaphylaxis,mild
+d3350f75-ef18-4809-87ad-448e0d33cd51,fe179314-4a1b-4d61-916d-66306bbbb80b,Milk,Nausea,moderate
+3c0ebdb1-80d9-48d4-bff8-d0efabe8645f,7b78d915-b1f1-429d-87da-bdb85fa41b6b,Bee venom,Nausea,severe
+2dde3b9b-c2e6-40a6-a9c7-ee73886abb15,7b78d915-b1f1-429d-87da-bdb85fa41b6b,Latex,Nausea,severe
+f7b4fec5-21ca-4482-81a1-21de2ab99f99,728e7587-649b-485d-8f42-e360710a37a6,Peanuts,Rash,moderate
+27d67a80-c06b-4225-a8b2-88ed079f900f,728e7587-649b-485d-8f42-e360710a37a6,Penicillin,Anaphylaxis,moderate
+53105359-b92a-4888-acf8-291d1f34d480,1fb3e9a0-9c0e-4b66-8ebb-39abd10836f5,Penicillin,Nausea,severe
+d5dd3e94-7a70-4cad-ad0a-0083ee66627e,40a4e3da-278a-4598-9601-2f7f8cbf7777,Milk,Nausea,moderate
+3e6cf0a5-ce80-49b7-820c-9eb5b22423b4,3c8a6176-b7cf-476a-b4de-9065dcee1746,Bee venom,Rash,moderate
+19975732-897c-401a-b37c-033743a96958,3c8a6176-b7cf-476a-b4de-9065dcee1746,Eggs,Vomiting,severe
+5cef95c7-b749-4234-b78d-24839eccea5a,258e8c73-ebb3-42bc-a2eb-1dc717027148,Milk,Vomiting,severe
+80606c71-af6a-4dd0-9964-3eade3c61cb7,258e8c73-ebb3-42bc-a2eb-1dc717027148,Latex,Hives,mild
+7eec051e-c179-4af5-a5d0-26778fe849a5,4c8446d2-b865-42e0-98a1-572e2b48152f,Bee venom,Anaphylaxis,moderate
+295ff250-0f68-4d66-aebb-14f48040184f,d90255a9-5b84-42b4-b333-0c23e3392e11,Eggs,Nausea,moderate
+b07617e4-ca5f-44c4-854a-8e52be102f8e,d90255a9-5b84-42b4-b333-0c23e3392e11,Eggs,Anaphylaxis,mild
+b9968a23-9eb7-427f-b290-696c4be44be1,2d9b982f-fda8-42ce-94ba-7351a276bc91,Latex,Anaphylaxis,moderate
+d8389815-f343-445c-8d72-4829931da72d,2d9b982f-fda8-42ce-94ba-7351a276bc91,Eggs,Swelling,severe
+4f78ce32-b418-47b0-b27b-209276e4154c,f48e7441-1ece-43f4-bcdb-8e496ad09767,Eggs,Vomiting,moderate
+5258ea97-17a3-4594-baba-7b78cd9694da,f48e7441-1ece-43f4-bcdb-8e496ad09767,Milk,Swelling,severe
+18e1c156-4b3c-4447-a579-97076c930e5b,a28fdfb1-9b32-4615-8d15-95de9eec2f00,Peanuts,Nausea,severe
+4e63ec8d-80f9-4822-aae6-6772dd17d9f2,a28fdfb1-9b32-4615-8d15-95de9eec2f00,Milk,Nausea,mild
+2eeb86af-4bdc-4d00-a0f8-ab7e6e576052,6057c8c3-5cfb-4563-9f23-23493bffceff,Eggs,Rash,severe
+0918544b-dbeb-4d1a-bfc8-8c0f8f7f0deb,6057c8c3-5cfb-4563-9f23-23493bffceff,Penicillin,Anaphylaxis,mild
+7d6db307-54f1-4f3e-a386-8c24442dbacf,6b6f976f-a35d-4dbd-b8fa-4715853d5d20,Penicillin,Vomiting,severe
+d3c15011-45a1-4eea-beb5-86f4869b93af,7606a9e7-ea29-47c6-ab69-cc95c0a98496,Bee venom,Nausea,moderate
+14271e23-81c2-4390-842e-7a21b2dd9a8f,e4b49aad-1902-457e-948a-daebd4888aad,Milk,Anaphylaxis,severe
+6c3986f0-7c47-47f7-81a1-e61ac70bed41,e4b49aad-1902-457e-948a-daebd4888aad,Shellfish,Swelling,moderate
+289a22c1-a5ed-495e-af74-3038a51e59a4,29c9abaf-e91d-4dce-a9f8-f8c1fee0b146,Shellfish,Anaphylaxis,moderate
+ba349ff0-1dc9-43f9-bf8f-b3c5162960a6,29c9abaf-e91d-4dce-a9f8-f8c1fee0b146,Eggs,Rash,mild
+f02e8806-9723-494d-8e77-ceac5dfec1a7,a9f8deb2-682b-4beb-89ae-8afac3ce88c4,Eggs,Swelling,mild
+1ec86f8e-ed38-4b60-b1ef-e4c4ff30a170,43d1b37d-4d45-4923-af1b-8ef5cc707060,Shellfish,Rash,mild
+1a212d9e-d914-447b-a141-465d4dbfa3e6,43d1b37d-4d45-4923-af1b-8ef5cc707060,Aspirin,Rash,moderate
+9a32a3fb-7fd1-4bd7-9640-8c50b768ab5d,bb672ad4-21bd-4a23-a8da-084135c5224c,Aspirin,Swelling,severe
+cdc5ffff-53c2-4adc-bf50-df3e9ae017fb,bb672ad4-21bd-4a23-a8da-084135c5224c,Eggs,Rash,mild
+241101e2-0ee1-4598-a5be-d82e52818323,f74ee5c8-568c-479b-8c4e-1953863dfe32,Aspirin,Vomiting,severe
+759aba46-5f16-47c2-87d2-56105576ebe9,f74ee5c8-568c-479b-8c4e-1953863dfe32,Peanuts,Vomiting,mild
+dba508ab-bae2-46b7-a370-84df0448c31d,8db88756-b21e-4e0b-8fbe-4c309eb2d7b5,Bee venom,Anaphylaxis,mild
+52a56cd8-c04e-4f6b-9a54-6472db2ee71c,55b605f2-e00e-4108-bec0-0956e56c8724,Bee venom,Anaphylaxis,severe
+4100b100-9d0f-4b49-bddb-e4edf39c62d9,d288fca9-a2fd-473c-b384-8783e2334bfd,Eggs,Nausea,mild
+29d5c6b1-e2b9-43b9-a598-0452f8d265d4,7f348085-d23f-4528-9ab5-e750880dbd74,Milk,Nausea,moderate
+e1ced048-572e-474d-86db-c4df3713ddff,7f348085-d23f-4528-9ab5-e750880dbd74,Penicillin,Vomiting,severe
+7f1e6e14-154a-4d5a-8fe7-70332f7d359c,441a8280-ec36-43c2-83df-257936c810d4,Shellfish,Rash,moderate
+bc763e95-748b-438f-a8fa-0e25994eb602,88e20a00-605b-4cb9-b1a9-96666ff8a72d,Aspirin,Nausea,moderate
+88ba4f14-7b09-45d3-8a58-bc5701070c6e,97ad033c-8e91-40e6-aef2-732ba00a38af,Peanuts,Nausea,moderate
+9bcf1c01-df62-4df5-b278-a37d3f8484b8,d94bc9cd-5cc6-449d-b49a-0fa8089f3600,Bee venom,Hives,moderate
+206513e0-6c41-4287-a4b0-8ce7ba712395,89c8dbf6-1b3c-42ae-96d6-897b8068a992,Shellfish,Anaphylaxis,mild
+cbadefe6-d719-48ef-82cb-d6531b28fee1,8ab4ee01-da62-473d-b5c5-fa0f0e9c15bd,Latex,Vomiting,mild
+8c68cbf7-9698-41ef-963e-9398476da7d2,8ab4ee01-da62-473d-b5c5-fa0f0e9c15bd,Penicillin,Vomiting,severe
+a644fd15-140e-4d6b-96de-2b5d3b967b40,5c78f489-89cf-46c8-b03d-55a800ff280b,Aspirin,Vomiting,mild
+ec422af1-7391-47b6-9f67-9b3c63da08af,f94bcec2-fb69-4fda-99c1-7f86559bff28,Peanuts,Anaphylaxis,moderate
+5e589a8c-d256-4e71-a908-2eb69ab87c15,f94bcec2-fb69-4fda-99c1-7f86559bff28,Latex,Hives,moderate
+e4933fd6-44e8-44a7-b72e-96d0af6218db,c2e8d025-59ad-4405-86bd-8e961bd5d40b,Latex,Hives,mild
+7c324a74-36f6-4d3f-9edf-cfb76041298b,040abe77-506f-40e6-bed0-0bde056c6d27,Shellfish,Nausea,severe
+95c4fbe1-5f01-4d85-b0b1-3fe9a33f441e,040abe77-506f-40e6-bed0-0bde056c6d27,Penicillin,Nausea,severe
+d21b5159-8718-48aa-a900-97c374e20dcd,7cd9dae9-bb02-417d-b39e-b96681008da1,Aspirin,Nausea,severe
+8a86e810-8ec5-4579-98ed-5940553caa4f,f16d8e31-45fd-4f24-8065-6e507ff7519a,Penicillin,Hives,moderate
+fadd6566-58b2-454a-9336-988fbc64bb7f,5d30f6f1-953b-428c-8001-088dc60d8be4,Latex,Anaphylaxis,moderate
+2966f427-8840-4c3a-80fa-ae0504e8be2f,5d30f6f1-953b-428c-8001-088dc60d8be4,Penicillin,Hives,mild
+9c05d4f9-4b28-43d6-a89c-c74d2ea630f6,29507ca0-a7b0-40c8-99e3-c2780c54a6d1,Peanuts,Nausea,mild
+66f54cbf-a44f-47f0-9ac6-0f0ee37ee12d,c60b0857-250e-4043-8c63-405cc1828ff6,Peanuts,Nausea,severe
+44a458a1-a66f-4366-9cf2-1c9f302592c0,3a8c4f63-f4ce-41bb-9bf3-fe5f94ceaae9,Milk,Hives,moderate
+40a5b021-ec9e-484d-8ee2-85f00e4cacb3,3a8c4f63-f4ce-41bb-9bf3-fe5f94ceaae9,Eggs,Nausea,moderate
+85492ee8-1b85-4e79-b8ac-6fd14e8eb144,f3082d37-4551-45ce-8044-7e0d27ccccd2,Milk,Hives,mild
+7238b15b-945d-42a1-ae85-351f6e801c1f,f17e5593-ecf7-47c8-9aed-b65cb7ac301a,Milk,Vomiting,moderate
+50659b5b-798a-4f1b-a022-c45151b3df7b,419182e9-587a-4db2-baa3-4ca15200c9cf,Eggs,Anaphylaxis,moderate
+dbc1b4bf-ec9f-4646-a300-82f4a8aab1ff,dffba1f1-dd93-4cfb-b453-0ed7c2b467dd,Shellfish,Swelling,severe
+e3b2f973-37f0-46d2-952b-6df05f118ebc,dffba1f1-dd93-4cfb-b453-0ed7c2b467dd,Milk,Anaphylaxis,mild
+14cc5f98-a98c-46c9-bfdc-86eac782e4bb,362aa09f-428f-4cb0-a094-5cfb16fdf992,Aspirin,Swelling,moderate
+21e76398-001f-4095-b51e-516d8f0b0a7d,e79a9d22-cf20-4704-9a68-6673feacf26b,Shellfish,Hives,moderate
+855c0092-06f4-4e90-8c25-a537ab2628f5,75fe6c6b-7b22-466f-b49e-bd466f4f2429,Aspirin,Rash,moderate
+777694ad-06b2-45c6-995c-ad9073396bcd,754e3db4-93dc-48af-a463-7ab39dae9ef5,Aspirin,Hives,mild
+d0405753-3130-450f-8866-fbb726530320,5f1e0504-c7e7-47b1-9258-1ae4dd3158d4,Aspirin,Anaphylaxis,moderate
+7b226f78-cc30-486e-9161-e62e2076a8a5,5f1e0504-c7e7-47b1-9258-1ae4dd3158d4,Eggs,Vomiting,moderate
+b1da8b03-eb98-4e7f-98f9-595829534bd9,18080d0e-2a79-4d95-af93-9c04c9c94a06,Penicillin,Rash,severe
+2bc0e493-1ce1-4ad4-8985-f48e8216f42f,18080d0e-2a79-4d95-af93-9c04c9c94a06,Shellfish,Nausea,severe
+6251d1bb-20ef-4a8f-bc01-b2b7c06af5bf,e93f3058-3b11-44b3-a6df-258fd9c96707,Milk,Anaphylaxis,mild
+cd285deb-2dad-45e2-b21b-b3f7fb0cea6a,9a6377bf-ebb9-4ed5-b5d8-93fb067e2025,Penicillin,Rash,severe
+03a414e8-ff8f-46e7-a7ad-3c594c9827ae,9a6377bf-ebb9-4ed5-b5d8-93fb067e2025,Penicillin,Vomiting,mild
+0d1d1470-1435-4989-8bce-9670c1bb7880,eb2c9bd7-8036-4b53-bb22-cb1c31356e12,Shellfish,Hives,severe
+b0ab8da8-59e2-4594-b280-652bc66e9b9b,a07e3f7a-f502-4bb5-9415-9de7d679b072,Eggs,Nausea,mild
+b43b111b-af46-4a0d-b809-8767c55ba804,a07e3f7a-f502-4bb5-9415-9de7d679b072,Milk,Vomiting,moderate
